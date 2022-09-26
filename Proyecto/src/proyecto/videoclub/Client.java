@@ -35,13 +35,13 @@ public class Client {
 	}
 	
 	public void showClient() {
-		System.out.println("Nombre:"+name);
-		System.out.println("Rut:"+rut+"\n");
+		System.out.println("Nombre: "+name);
+		System.out.println("Rut: "+rut+"\n");
 	}
 	
 	public void setClientMovie(Movie mov){
 		movies.add(cantMovies, mov);
-		cantMovies += 1;
+		cantMovies ++;
 	}
 	
 	public void showClientMovies() {

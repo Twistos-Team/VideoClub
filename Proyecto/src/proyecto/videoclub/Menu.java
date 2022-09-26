@@ -34,7 +34,9 @@ public class Menu {
 		System.out.println("CLIENTE - QUE DESEA HACER?");
 		System.out.println("1) Registrarse como cliente");
 		System.out.println("2) Mostrar cliente");
-		System.out.println("3) Arrendar pelicula");
+		System.out.println("3) Mostrar peliculas de cliente");
+		System.out.println("4) Arrendar pelicula");
+		System.out.println("5) Devolver pelicula");
 		System.out.println("Otherwise: Salir");
 		resp = Integer.parseInt(reader.readLine());
 		
@@ -46,11 +48,21 @@ public class Menu {
 				else System.out.println("Cliente no existente");
 				break;
 		
-		case 3: addMovie(listC, catalogueM); break;
+		case 3: showClientMovies(listC); break;
+				
+		case 4: addMovie(listC, catalogueM); break;
+		
+		case 5: deleteMovie(); break;
 		
 		default: System.out.println("Saliendo...\n"); break;
 		}
 	}//End menuCliente
+	
+	public void showClientMovies(Hashtable<String,Client>listC) throws IOException {
+		Client cc = searchClient(listC);
+		cc.showClientMovies();
+		return;
+	}
 	
 	
 	public void insertClient(Hashtable<String,Client>listC) throws IOException{
@@ -89,7 +101,10 @@ public class Menu {
 				}
 			}
 		}
-		c.showClientMovies();
+	}
+	
+	public void deleteMovie() {
+		return;
 	}
 	
 	// MENU CATALOGO
@@ -112,7 +127,7 @@ public class Menu {
 	
 	public void showCatalogue(ArrayList<Movie> catalogueM) {
 		Movie p;
-		for (int i = 0 ; i < 4 ; i+=1) {
+		for (int i = 0 ; i < 800 ; i+=1) {
 			p = catalogueM.get(i);
 			p.showMovies();
 		}

@@ -12,17 +12,17 @@ public class VideoClub {
 		readTxt(catalogueM);
 		
 		menu.principalMenu(catalogueM, listC);
-		System.out.println("Chao qlo:");
+		System.out.println("Gracias :)");
 	}//END MAIN
 	
 	public static void readTxt(ArrayList<Movie> catalogueM) throws IOException {
-		BufferedReader txtReader = new BufferedReader(new FileReader("peliculas.txt"));
+		BufferedReader txtReader = new BufferedReader(new FileReader("movies.csv"));
 		String lineText = null;
 		int i = 0; 
 		
 		while ((lineText = txtReader.readLine()) != null) {
 			String[] arr = lineText.split(",");
-			Movie p = new Movie(arr[0], arr[1], i);
+			Movie p = new Movie(arr[0], arr[1],i);
 			catalogueM.add(i,p);
 			i += 1;
 		}
