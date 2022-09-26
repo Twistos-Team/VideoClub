@@ -22,6 +22,22 @@ public class Movie {
 		return name;
 	}
 	
+	public String getDistributor() {
+		return distributor;
+	}
+	
+	public int getId() {
+		return id;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public void setDistributor(String distributor) {
+		this.distributor = distributor;
+	}
+	
 	public void showMovies() {
 		System.out.println("Nombre: "+name);
 		System.out.println("Distribuidor: "+distributor);

@@ -27,13 +27,12 @@ public class Menu {
 		principalMenu(catalogueM, listC);
 	}//End menuPrincipal
 	
-	
 
 	// MENU CLIENTE
 	public void menuClient(ArrayList<Movie> catalogueM, Hashtable<String,Client>listC) throws IOException{
 		System.out.println("CLIENTE - QUE DESEA HACER?");
 		System.out.println("1) Registrarse como cliente");
-		System.out.println("2) Mostrar cliente");
+		System.out.println("2) Buscar cliente");
 		System.out.println("3) Mostrar peliculas de cliente");
 		System.out.println("4) Arrendar pelicula");
 		System.out.println("5) Devolver pelicula");
@@ -41,18 +40,26 @@ public class Menu {
 		resp = Integer.parseInt(reader.readLine());
 		
 		switch (resp){
-		case 1: insertClient(listC); break;
+		case 1: insertClient(listC); 
+				break;
 		
 		case 2: Client sC = searchClient(listC); 
 				if (sC != null) sC.showClient();
 				else System.out.println("Cliente no existente");
 				break;
 		
-		case 3: showClientMovies(listC); break;
+		case 3: showClientMovies(listC);
+				break;
 				
-		case 4: addMovie(listC, catalogueM); break;
+		case 4: addMovie(listC, catalogueM);
+				break;
 		
-		case 5: deleteMovie(); break;
+		case 5: Client cc = searchClient(listC); 
+				if (cc != null) {
+					deleteMovie(cc);
+				}
+				else System.out.println("Cliente no existente");
+				break;
 		
 		default: System.out.println("Saliendo...\n"); break;
 		}
@@ -68,13 +75,17 @@ public class Menu {
 	public void insertClient(Hashtable<String,Client>listC) throws IOException{
 		String insertedName;
 		String insertedRut;
-		
+	
 		Client c = new Client();
 		System.out.println("Ingrese su nombre");
 		insertedName = reader.readLine();
 		System.out.println("Ingrese su rut");
 		insertedRut = reader.readLine();
 		
+		if (listC.containsKey(insertedRut)) {
+			System.out.println("Rut ya existente");
+			return;
+		}
 		c.setClient(insertedName, insertedRut);
 		listC.put(insertedRut, c);
 	}
@@ -89,48 +100,85 @@ public class Menu {
 	
 	public void addMovie(Hashtable<String,Client>listC, ArrayList<Movie> catalogueM) throws IOException{
 		Client c = searchClient(listC);
-		int lng = catalogueM.size(); 
 		
 		if (c != null) {
-			System.out.println("Que pelicula deseas rentar");
+			System.out.println("Que pelicula desea rentar?");
 			String searchedMovie = reader.readLine();
-			for (int i = 0 ; i < lng ; i+=1) {
-				Movie mov = catalogueM.get(i);
-				if (mov.getName().equals(searchedMovie)){
-					c.setClientMovie(mov);
-				}
-			}
+			Movie mov = searchMovie(catalogueM, searchedMovie);
+			if (mov != null)c.addClientMovie(mov);
 		}
 	}
 	
-	public void deleteMovie() {
-		return;
+	public void deleteMovie(Client cc) throws IOException{
+		System.out.println("Que pelicula desea devolver?");
+		int ide= Integer.parseInt(reader.readLine());
+		cc.deleteMovie(ide);
 	}
 	
 	// MENU CATALOGO
 	public void menuCatalogue(ArrayList<Movie> catalogueM, Hashtable<String,Client>listC) throws IOException{
 		System.out.println("CATALOGO - QUE DESEA HACER?");
 		System.out.println("1) Mostrar todas las peliculas");
-		System.out.println("2) Buscar pelicula por nombre");
-		System.out.println("3) Buscar pelicula por ID");
+		System.out.println("2) Buscar pelicula");
 		System.out.println("Otherwise: Salir");
 		resp = Integer.parseInt(reader.readLine());
 		
 		switch (resp){
 		case 1:	showCatalogue(catalogueM);
 				break;
-		case 2: break;
+				
+		case 2: System.out.println("Ingrese nombre de pelicula");
+				String searchedMovie = reader.readLine();
+				Movie movie = searchMovie(catalogueM, searchedMovie);
+				if(movie!=null) {
+					movie.showMovies();				
+				}
+				else System.out.println("Pelicula no encontrada");
+				break;
+		
 		default: System.out.println("Saliendo...\n"); break;
 		}
 	}//End menuCatalogo
 	
 	
-	public void showCatalogue(ArrayList<Movie> catalogueM) {
+	public void showCatalogue(ArrayList<Movie> catalogueM){
 		Movie p;
 		for (int i = 0 ; i < 800 ; i+=1) {
 			p = catalogueM.get(i);
 			p.showMovies();
 		}
 	}
+	
+	public Movie searchMovie2(ArrayList<Movie> catalogueM, String searchedMovie){
+		Movie mov = null;
+		int lng = catalogueM.size(); 
+			for (int i = 0 ; i < lng ; i+=1) {
+				mov = catalogueM.get(i);
+				if (mov.getName().equals(searchedMovie)) return mov;
+			
+			}
+			return null;
+	}
+	
+	public Movie searchMovie2(ArrayList<Movie> catalogueM, int searchedMovie){
+		Movie mov = null;
+		int lng = catalogueM.size(); 
+			for (int i = 0 ; i < lng ; i+=1) {
+				mov = catalogueM.get(i);
+				if(mov.getId() == searchedMovie) return mov;
+			}
+		return null;
+	}
 
+	public Movie searchMovie(ArrayList<Movie>catalogueM, String sMov) {
+		try {
+			int searchedMovie = Integer.parseInt(sMov);
+			return searchMovie2(catalogueM, searchedMovie);
+		}
+		catch(Exception e) {
+			String searchedMovie = sMov;
+			return searchMovie2(catalogueM, searchedMovie);
+		}
+	}
+	
 }//END CLASS

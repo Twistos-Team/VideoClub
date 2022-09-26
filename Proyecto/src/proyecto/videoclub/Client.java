@@ -24,14 +24,34 @@ public class Client {
 	
 	
 	//METODOS
-	public void setClient(String name, String rut) {
+	public String getName() {
+		return name;
+	}
+	
+	public String getRut() {
+		return rut;
+	}
+	
+	public int getCantMovies() {
+		return cantMovies;
+	}
+	
+	public void setName(String name) {
 		this.name = name;
+	}
+	
+	public void setRut(String rut) {
 		this.rut = rut;
 	}
 	
+	public void setClient(String name, String rut) {
+		setName(name);
+		setRut(rut);
+	}
+	
 	public void setClient(String name, int rut) {
-		this.name = name;
-		this.rut = String.valueOf(rut);
+		setName(name);
+		setRut(String.valueOf(rut));
 	}
 	
 	public void showClient() {
@@ -39,7 +59,7 @@ public class Client {
 		System.out.println("Rut: "+rut+"\n");
 	}
 	
-	public void setClientMovie(Movie mov){
+	public void addClientMovie(Movie mov){
 		movies.add(cantMovies, mov);
 		cantMovies ++;
 	}
@@ -49,5 +69,12 @@ public class Client {
 			movies.get(i).showMovies();
 		}
 	}
-	
+	public void deleteMovie(int id) {
+		for (int i = 0 ; i < cantMovies ; i+=1) {
+			if(id==(movies.get(i).getId())){
+			   movies.remove(i);
+			   cantMovies--;
+			}
+		}
+	}
 }//END CLASS
