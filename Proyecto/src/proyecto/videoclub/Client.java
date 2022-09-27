@@ -1,6 +1,7 @@
 package proyecto.videoclub;
-import java.util.*;
-	
+
+import java.util.ArrayList;
+
 public class Client {
 	private String name;
 	private String rut;
@@ -14,14 +15,12 @@ public class Client {
 		this.rut=null;
 		this.movies = new ArrayList<Movie>();
 	}
-	
 	public Client(String name, String rut) {
 		this.name = name;
 		this.rut = rut;
 		cantMovies = 0;
 		this.movies = new ArrayList<Movie>();
 	}
-	
 	
 	//METODOS
 	public String getName() {
@@ -62,6 +61,7 @@ public class Client {
 	public void addClientMovie(Movie mov){
 		movies.add(cantMovies, mov);
 		cantMovies ++;
+		mov.upCant();
 	}
 	
 	public void showClientMovies() {
@@ -69,6 +69,7 @@ public class Client {
 			movies.get(i).showMovies();
 		}
 	}
+	
 	public void deleteMovie(int id) {
 		for (int i = 0 ; i < cantMovies ; i+=1) {
 			if(id==(movies.get(i).getId())){

@@ -1,7 +1,10 @@
 package proyecto.videoclub;
 
-import java.util.*;
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Hashtable;
 
 public class Menu {
 	private BufferedReader reader;
@@ -16,12 +19,14 @@ public class Menu {
 		System.out.println("MENU PRINCIPAL");
 		System.out.println("1) Menu Clientes");
 		System.out.println("2) Menu Catalogo Peliculas");
+		System.out.println("3) Up Cant");
 		System.out.println("Otherwise: Salir");
 		resp = Integer.parseInt(reader.readLine());
 		
 		switch (resp){
 		case 1: menuClient(catalogueM, listC); break;
 		case 2: menuCatalogue(catalogueM, listC); break;
+		case 3: catalogueM.get(799).upCant();
 		default: System.out.println("Saliendo...\n"); return;
 		}
 		principalMenu(catalogueM, listC);
