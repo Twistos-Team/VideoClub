@@ -50,7 +50,8 @@ public class Movie {
 	}
 	
 	public void setDate(String date) {
-		this.date = date;}
+		this.date = date;
+	}
 	
 	public void upCant() {
 		cantRented++;

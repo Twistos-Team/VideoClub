@@ -1,12 +1,19 @@
 package proyecto.videoclub;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 
 public class CSVManager {
-	static String MOVIES = "movies.csv";
+	static String MOVIES = "movies.txt";
 	
-	public void readCsvMov(ArrayList<Movie> cat) throws IOException {
+	static void readCsvMov(ArrayList<Movie> cat) throws IOException {
 		try {
 			BufferedReader fileReader = new BufferedReader(new FileReader(MOVIES));
 			String lineText = null;
@@ -26,9 +33,12 @@ public class CSVManager {
 		}
 	}
 	
-	public void writeCsvMov(ArrayList<Movie> cat) {
+	static void writeCsvMov(ArrayList<Movie> cat) {
 		try {
-			fileChange();
+			File file = new File(MOVIES);
+			file.delete();
+			File nw = new File(MOVIES);
+			nw.createNewFile();
 			
 			BufferedWriter fileWriter = new BufferedWriter(new FileWriter(MOVIES, true));
 			PrintWriter wrt = new PrintWriter(fileWriter);
@@ -37,30 +47,15 @@ public class CSVManager {
 			int i = 0;
 			while (i < 800){
 				mm = cat.get(i);
-				wrt.println(mm.getName()+","+mm.getDistributor()+","+mm.getDate()+","+mm.getCantR());
+				wrt.write(mm.getName()+","+mm.getDistributor()+","+mm.getDate()+","+mm.getCantR()+"\n");
 				i++;
 			}
 			
 			System.out.println("Exported OK");
-			wrt.flush();
 			wrt.close();
 		}
 		catch(IOException ex) {
 			System.out.println("Error Not Exported");
 		}
 	}
-
-	public void fileChange() throws IOException{
-		File file = new File(MOVIES);
-		file.delete();
-		createFile();
-	}
-	
-	public void createFile()throws IOException {
-		File t = new File(MOVIES);
-		
-		if (t.createNewFile()) System.out.println("File Created\n");
-		else System.out.println(" File Not Created\n");
-	}
-		
 }

@@ -1,4 +1,3 @@
-
 package proyecto.videoclub;
 
 import java.io.IOException;
@@ -20,6 +19,8 @@ public class VideoClub {
 		
 		csvM.writeCsvMov(catalogueM);
 		
+		catalogueM.clear();
+		listC.clear();
 		System.out.println("Gracias :)");
 	}//END MAIN
 
