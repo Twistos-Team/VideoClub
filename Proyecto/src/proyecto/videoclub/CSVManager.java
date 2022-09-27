@@ -5,7 +5,6 @@ import java.util.ArrayList;
 
 public class CSVManager {
 	static String MOVIES = "movies.csv";
-	static String TEMPM = "tempm.csv";
 	
 	public void readCsvMov(ArrayList<Movie> cat) throws IOException {
 		try {
@@ -29,8 +28,9 @@ public class CSVManager {
 	
 	public void writeCsvMov(ArrayList<Movie> cat) {
 		try {
-			createTemp(TEMPM);
-			BufferedWriter fileWriter = new BufferedWriter(new FileWriter(TEMPM, true));
+			fileChange();
+			
+			BufferedWriter fileWriter = new BufferedWriter(new FileWriter(MOVIES, true));
 			PrintWriter wrt = new PrintWriter(fileWriter);
 			
 			Movie mm = null;
@@ -41,8 +41,7 @@ public class CSVManager {
 				i++;
 			}
 			
-			editFiles(MOVIES, TEMPM);
-			System.out.println("Exported OK\n");
+			System.out.println("Exported OK");
 			wrt.flush();
 			wrt.close();
 		}
@@ -50,26 +49,15 @@ public class CSVManager {
 			System.out.println("Error Not Exported");
 		}
 	}
-	
-	public void editFiles(String mvs, String tmp) throws IOException{
-		File oldf = new File(mvs);
-		oldf.delete();
-		
-		renameFile(TEMPM, MOVIES);
-		createTemp(TEMPM);
-		return;
+
+	public void fileChange() throws IOException{
+		File file = new File(MOVIES);
+		file.delete();
+		createFile();
 	}
 	
-	public void renameFile(String tmp, String mvs){
-		File dump = new File(mvs);
-		File t = new File(tmp);
-		
-		if (t.renameTo(dump)) System.out.println("Renamed\n");
-		else System.out.println("Not Renamed\n");
-	}
-	
-	public void createTemp(String tmp)throws IOException {
-		File t = new File(tmp);
+	public void createFile()throws IOException {
+		File t = new File(MOVIES);
 		
 		if (t.createNewFile()) System.out.println("File Created\n");
 		else System.out.println(" File Not Created\n");

@@ -23,7 +23,6 @@ public class Movie {
 	}
 	
 	// METODOS
-	
 	public String getName() {
 		return name;
 	}

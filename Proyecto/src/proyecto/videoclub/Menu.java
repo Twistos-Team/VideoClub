@@ -168,10 +168,10 @@ public class Menu {
 	public Movie searchMovie2(ArrayList<Movie> catalogueM, int searchedMovie){
 		Movie mov = null;
 		int lng = catalogueM.size(); 
-			for (int i = 0 ; i < lng ; i+=1) {
-				mov = catalogueM.get(i);
-				if(mov.getId() == searchedMovie) return mov;
-			}
+		for (int i = 0 ; i < lng ; i+=1) {
+			mov = catalogueM.get(i);
+			if(mov.getId() == searchedMovie)return mov;
+		}
 		return null;
 	}
 
