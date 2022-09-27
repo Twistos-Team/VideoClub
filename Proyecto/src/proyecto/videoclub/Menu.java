@@ -6,6 +6,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Hashtable;
 
+import project.exceptions.ValidRutException;
+
 public class Menu {
 	private BufferedReader reader;
 	private int resp;
@@ -76,23 +78,34 @@ public class Menu {
 		return;
 	}
 	
+	public void invalidRut(String rut) throws ValidRutException{
+		if(!(rut.length() >= 7) && !(rut.length() <= 8))
+			throw new ValidRutException();
+	}
 	
 	public void insertClient(Hashtable<String,Client>listC) throws IOException{
-		String insertedName;
-		String insertedRut;
-	
-		Client c = new Client();
-		System.out.println("Ingrese su nombre");
-		insertedName = reader.readLine();
-		System.out.println("Ingrese su rut");
-		insertedRut = reader.readLine();
+		try {
+			String insertedName;
+			String insertedRut;
+			Client c = new Client();
+			System.out.println("Ingrese su nombre");
+			insertedName = reader.readLine();
+			System.out.println("Ingrese su rut");
+			insertedRut = reader.readLine();
 		
-		if (listC.containsKey(insertedRut)) {
-			System.out.println("Rut ya existente");
-			return;
+			invalidRut(insertedRut);
+			
+			if (listC.containsKey(insertedRut)) {
+				System.out.println("Rut ya existente");
+				return;
+			}
+			
+			c.setClient(insertedName, insertedRut);
+			listC.put(insertedRut, c);
+			
+		}catch(ValidRutException ex) {
+
 		}
-		c.setClient(insertedName, insertedRut);
-		listC.put(insertedRut, c);
 	}
 	
 	public Client searchClient(Hashtable<String,Client>listC) throws IOException{

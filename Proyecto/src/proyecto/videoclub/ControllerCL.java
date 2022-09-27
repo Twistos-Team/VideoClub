@@ -2,6 +2,8 @@ package proyecto.videoclub;
 
 import java.util.ArrayList;
 
+import project.exceptions.NotIntException;
+
 public class ControllerCL {
 	public void showClientMovies(ArrayList<Movie>lst) {
 		int sz = lst.size();
@@ -44,14 +46,15 @@ public class ControllerCL {
 		return null;
 	}
 	
-	public void isInt(String xd) throws NotIntegerException {
+	public void isInt(String xd) throws NotIntException {
 		try {
 			Integer.parseInt(xd);
 		}
 		catch(Exception ex) {
-			throw new NotIntegerException();
+			throw new NotIntException();
 		}
 	}
+	
 	
 	public Movie searchMovie(ArrayList<Movie>list, String sMov) {
 		Movie mov = null;
@@ -65,7 +68,7 @@ public class ControllerCL {
 				if (mov.getId() == searchedMovie) return mov;
 			}
 		}
-		catch(NotIntegerException e) {
+		catch(NotIntException e) {
 			String space = " ";
 			sMov = sMov+space;
 			mov = searchMovie2(list, sMov);
