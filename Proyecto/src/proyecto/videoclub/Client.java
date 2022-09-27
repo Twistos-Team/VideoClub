@@ -59,23 +59,21 @@ public class Client {
 	}
 	
 	public void addClientMovie(Movie mov){
-		movies.add(cantMovies, mov);
+		ControllerCL ctr = new ControllerCL();
+		ctr.addClientMovie(movies, mov, cantMovies);
 		cantMovies ++;
 		mov.upCant();
 	}
 	
 	public void showClientMovies() {
-		for (int i = 0 ; i < cantMovies ; i+=1) {
-			movies.get(i).showMovies();
-		}
+		ControllerCL ctr = new ControllerCL();
+		ctr.showClientMovies(movies);
+		cantMovies++;
 	}
 	
-	public void deleteMovie(int id) {
-		for (int i = 0 ; i < cantMovies ; i+=1) {
-			if(id==(movies.get(i).getId())){
-			   movies.remove(i);
-			   cantMovies--;
-			}
-		}
+	public void deleteMovie(String sMov) {
+		ControllerCL ctr = new ControllerCL();
+		ctr.deleteMovie(movies, sMov);
+		cantMovies--;
 	}
 }//END CLASS

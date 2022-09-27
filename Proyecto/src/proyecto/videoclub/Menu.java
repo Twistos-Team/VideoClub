@@ -9,7 +9,7 @@ import java.util.Hashtable;
 public class Menu {
 	private BufferedReader reader;
 	private int resp;
-	
+	private ControllerCL ctr = new ControllerCL();
 	public Menu() {
 		reader = new BufferedReader(new InputStreamReader(System.in));
 		resp = 0;
@@ -26,7 +26,7 @@ public class Menu {
 		switch (resp){
 		case 1: menuClient(catalogueM, listC); break;
 		case 2: menuCatalogue(catalogueM, listC); break;
-		case 3: catalogueM.get(799).upCant();
+		case 3: catalogueM.get(0).upCant();
 		default: System.out.println("Saliendo...\n"); return;
 		}
 		principalMenu(catalogueM, listC);
@@ -109,15 +109,26 @@ public class Menu {
 		if (c != null) {
 			System.out.println("Que pelicula desea rentar?");
 			String searchedMovie = reader.readLine();
-			Movie mov = searchMovie(catalogueM, searchedMovie);
-			if (mov != null)c.addClientMovie(mov);
+			Movie mov = ctr.searchMovie(catalogueM, searchedMovie);
+			
+			if (mov == null) {
+				System.out.println("Pelicula no existe");
+				return;
+			}
+			if (!mov.getAvailable()) {
+				System.out.println("Pelicula no disponible");
+				return;
+			}
+			c.addClientMovie(mov);
+			mov.setAvailable(false);
 		}
 	}
 	
 	public void deleteMovie(Client cc) throws IOException{
 		System.out.println("Que pelicula desea devolver?");
-		int ide= Integer.parseInt(reader.readLine());
-		cc.deleteMovie(ide);
+		String sMov= reader.readLine();
+		cc.deleteMovie(sMov);
+		
 	}
 	
 	// MENU CATALOGO
@@ -129,12 +140,12 @@ public class Menu {
 		resp = Integer.parseInt(reader.readLine());
 		
 		switch (resp){
-		case 1:	showCatalogue(catalogueM);
+		case 1:	ctr.showCatalogue(catalogueM);
 				break;
 				
 		case 2: System.out.println("Ingrese nombre de pelicula");
 				String searchedMovie = reader.readLine();
-				Movie movie = searchMovie(catalogueM, searchedMovie);
+				Movie movie = ctr.searchMovie(catalogueM, searchedMovie);
 				if(movie!=null) {
 					movie.showMovies();				
 				}
@@ -144,46 +155,5 @@ public class Menu {
 		default: System.out.println("Saliendo...\n"); break;
 		}
 	}//End menuCatalogo
-	
-	
-	public void showCatalogue(ArrayList<Movie> catalogueM){
-		Movie p;
-		for (int i = 0 ; i < 800 ; i+=1) {
-			p = catalogueM.get(i);
-			p.showMovies();
-		}
-	}
-	
-	public Movie searchMovie2(ArrayList<Movie> catalogueM, String searchedMovie){
-		Movie mov = null;
-		int lng = catalogueM.size(); 
-			for (int i = 0 ; i < lng ; i+=1) {
-				mov = catalogueM.get(i);
-				if (mov.getName().equals(searchedMovie)) return mov;
-			
-			}
-			return null;
-	}
-	
-	public Movie searchMovie2(ArrayList<Movie> catalogueM, int searchedMovie){
-		Movie mov = null;
-		int lng = catalogueM.size(); 
-		for (int i = 0 ; i < lng ; i+=1) {
-			mov = catalogueM.get(i);
-			if(mov.getId() == searchedMovie)return mov;
-		}
-		return null;
-	}
-
-	public Movie searchMovie(ArrayList<Movie>catalogueM, String sMov) {
-		try {
-			int searchedMovie = Integer.parseInt(sMov);
-			return searchMovie2(catalogueM, searchedMovie);
-		}
-		catch(Exception e) {
-			String searchedMovie = sMov;
-			return searchMovie2(catalogueM, searchedMovie);
-		}
-	}
 	
 }//END CLASS

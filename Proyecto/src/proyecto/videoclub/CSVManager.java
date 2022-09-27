@@ -1,19 +1,12 @@
 package proyecto.videoclub;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
 import java.util.ArrayList;
 
 public class CSVManager {
-	static String MOVIES = "movies.txt";
+	public String MOVIES = "movies.txt";
 	
-	static void readCsvMov(ArrayList<Movie> cat) throws IOException {
+	public void readCsvMov(ArrayList<Movie> cat) throws IOException {
 		try {
 			BufferedReader fileReader = new BufferedReader(new FileReader(MOVIES));
 			String lineText = null;
@@ -33,7 +26,7 @@ public class CSVManager {
 		}
 	}
 	
-	static void writeCsvMov(ArrayList<Movie> cat) {
+	public void writeCsvMov(ArrayList<Movie> cat) {
 		try {
 			File file = new File(MOVIES);
 			file.delete();
