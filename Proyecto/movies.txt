@@ -1,800 +1,800 @@
-Star Wars: Episode VII - The Force Awakens ,Walt Disney Studios Motion Pictures,December 16 of  2015,4
-Avengers: Endgame ,Walt Disney Studios Motion Pictures,April 24 of  2019,0
-Avatar ,Twentieth Century Fox,December 16 of  2009,0
-Titanic ,Paramount Pictures,December 19 of  1997,0
-Jurassic World ,Universal Pictures,June 10 of  2015,0
-The Avengers ,Walt Disney Studios Motion Pictures,April 25 of  2012,0
-Star Wars: Episode VIII - The Last Jedi ,Walt Disney Studios Motion Pictures,December 13 of  2017,0
-The Lion King ,Walt Disney Studios Motion Pictures,July 11 of  2019,0
-The Dark Knight ,Warner Bros.,July 16 of  2008,0
-Rogue One: A Star Wars Story ,Walt Disney Studios Motion Pictures,December 14 of  2016,0
-Star Wars: Episode IX - The Rise of Skywalker ,Walt Disney Studios Motion Pictures,December 18 of  2019,0
-Beauty and the Beast ,Walt Disney Studios Motion Pictures,March 16 of  2017,0
-Frozen II ,Walt Disney Studios Motion Pictures,November 20 of  2019,0
-Star Wars: Episode I - The Phantom Menace ,Twentieth Century Fox,May 19 of  1999,0
-Star Wars: Episode IV - A New Hope ,Twentieth Century Fox,May 25 of  1977,0
-Avengers: Age of Ultron ,Walt Disney Studios Motion Pictures,April 22 of  2015,0
-The Dark Knight Rises ,Warner Bros.,July 19 of  2012,0
-Shrek 2 ,DreamWorks Distribution,May 19 of  2004,0
-E.T. the Extra-Terrestrial ,Universal Pictures,June 11 of  1982,0
-Toy Story 4 ,Walt Disney Studios Motion Pictures,June 20 of  2019,0
-Captain Marvel ,Walt Disney Studios Motion Pictures,March 6 of  2019,0
-The Hunger Games: Catching Fire ,Lionsgate,November 15 of  2013,0
-Pirates of the Caribbean: Dead Man's Chest ,Walt Disney Studios Motion Pictures,July 6 of  2006,0
-The Lion King ,Walt Disney Studios Motion Pictures,June 15 of  1994,0
-Jurassic World: Fallen Kingdom ,Universal Pictures,June 6 of  2018,0
-Toy Story 3 ,Walt Disney Studios Motion Pictures,June 16 of  2010,0
-Wonder Woman ,Warner Bros.,May 30 of  2017,0
-Iron Man 3 ,Walt Disney Studios Motion Pictures,April 24 of  2013,0
-Captain America: Civil War ,Walt Disney Studios Motion Pictures,April 27 of  2016,0
-The Hunger Games ,Lionsgate,March 8 of  2012,0
-Spider-Man ,Sony Pictures Entertainment (SPE),May 3 of  2002,0
-Jumanji: Welcome to the Jungle ,Sony Pictures Entertainment (SPE),December 20 of  2017,0
-Jurassic Park ,Universal Pictures,June 11 of  1993,0
-Transformers: Revenge of the Fallen ,DreamWorks,June 19 of  2009,0
-Frozen ,Walt Disney Studios Motion Pictures,November 22 of  2013,0
-Spider-Man: Far from Home ,Sony Pictures Entertainment (SPE),June 28 of  2019,0
-Guardians of the Galaxy Vol. 2 ,Walt Disney Studios Motion Pictures,April 25 of  2017,0
-Finding Nemo ,Walt Disney Studios Motion Pictures,May 30 of  2003,0
-Star Wars: Episode III - Revenge of the Sith ,Twentieth Century Fox,May 18 of  2005,0
-The Lord of the Rings: The Return of the King ,New Line Cinema,December 17 of  2003,0
-Spider-Man 2 ,Sony Pictures Entertainment (SPE),June 30 of  2004,0
-The Passion of the Christ ,Newmarket Films,February 25 of  2004,0
-The Secret Life of Pets ,Universal Pictures,June 24 of  2016,0
-Despicable Me 2 ,Universal Pictures,June 20 of  2013,0
-The Jungle Book ,Walt Disney Studios Motion Pictures,April 7 of  2016,0
-Deadpool ,Twentieth Century Fox,February 9 of  2016,0
-Inside Out ,Walt Disney Studios Motion Pictures,June 10 of  2015,0
-Aladdin ,Walt Disney Studios Motion Pictures,May 22 of  2019,0
-Furious 7 ,Universal Pictures,April 1 of  2015,0
-Transformers: Dark of the Moon ,DreamWorks,June 29 of  2011,0
-American Sniper ,Warner Bros.,December 25 of  2014,0
-The Lord of the Rings: The Two Towers ,New Line Cinema,December 18 of  2002,0
-The Hunger Games: Mockingjay - Part 1 ,Lionsgate,November 19 of  2014,0
-Spider-Man 3 ,Sony Pictures Entertainment (SPE),May 1 of  2007,0
-Minions ,Universal Pictures,April 9 of  2015,0
-Joker ,Warner Bros.,October 2 of  2019,0
-Spider-Man: Homecoming ,Sony Pictures Entertainment (SPE),July 5 of  2017,0
-Alice in Wonderland ,Walt Disney Studios Motion Pictures,March 3 of  2010,0
-Guardians of the Galaxy ,Walt Disney Studios Motion Pictures,July 30 of  2014,0
-Forrest Gump ,Paramount Pictures,July 6 of  1994,0
-Batman v Superman: Dawn of Justice ,Warner Bros.,March 23 of  2016,0
-It ,Warner Bros.,September 6 of  2017,0
-Suicide Squad ,Warner Bros.,August 3 of  2016,0
-Deadpool 2 ,Twentieth Century Fox,May 16 of  2018,0
-Shrek the Third ,DreamWorks,May 17 of  2007,0
-Jumanji: The Next Level ,Sony Pictures Entertainment (SPE),December 4 of  2019,0
-Transformers ,DreamWorks,June 28 of  2007,0
-Iron Man ,Paramount Pictures,April 30 of  2008,0
-Harry Potter and the Sorcerer's Stone ,Warner Bros.,November 16 of  2001,0
-Indiana Jones and the Kingdom of the Crystal Skull ,Paramount Pictures,May 21 of  2008,0
-The Lord of the Rings: The Fellowship of the Ring ,New Line Cinema,December 19 of  2001,0
-Thor: Ragnarok ,Walt Disney Studios Motion Pictures,October 24 of  2017,0
-Iron Man 2 ,Paramount Pictures,April 28 of  2010,0
-Star Wars: Episode II - Attack of the Clones ,Twentieth Century Fox,May 16 of  2002,0
-Pirates of the Caribbean: At World's End ,Walt Disney Studios Motion Pictures,May 22 of  2007,0
-Star Wars: Episode VI - Return of the Jedi ,Twentieth Century Fox,May 25 of  1983,0
-Independence Day ,Twentieth Century Fox,July 3 of  1996,0
-Pirates of the Caribbean: The Curse of the Black Pearl ,Walt Disney Studios Motion Pictures,July 9 of  2003,0
-Skyfall ,Sony Pictures Entertainment (SPE),October 25 of  2012,0
-Harry Potter and the Half-Blood Prince ,Warner Bros.,July 15 of  2009,0
-The Twilight Saga: Eclipse ,Summit Entertainment,June 30 of  2010,0
-The Twilight Saga: New Moon ,Summit Entertainment,November 18 of  2009,0
-The Sixth Sense ,Walt Disney Studios Motion Pictures,August 6 of  1999,0
-Up ,Walt Disney Studios Motion Pictures,May 28 of  2009,0
-Star Wars: Episode V - The Empire Strikes Back ,Twentieth Century Fox,May 21 of  1980,0
-Inception ,Warner Bros.,July 15 of  2010,0
-Harry Potter and the Order of the Phoenix ,Warner Bros.,July 11 of  2007,0
-The Twilight Saga: Breaking Dawn - Part 2 ,Lionsgate,November 14 of  2012,0
-The Chronicles of Narnia: The Lion the Witch and the Wardrobe ,Walt Disney Studios Motion Pictures,December 7 of  2005,0
-Man of Steel ,Warner Bros.,June 12 of  2013,0
-Monsters Inc. ,Walt Disney Studios Motion Pictures,November 2 of  2001,0
-Harry Potter and the Goblet of Fire ,Warner Bros.,November 16 of  2005,0
-Home Alone ,Twentieth Century Fox,November 16 of  1990,0
-The Hunger Games: Mockingjay - Part 2 ,Lionsgate,November 18 of  2015,0
-The Matrix Reloaded ,Warner Bros.,May 15 of  2003,0
-The Twilight Saga: Breaking Dawn - Part 1 ,Summit Entertainment,November 16 of  2011,0
-Meet the Fockers ,Universal Pictures,December 22 of  2004,0
-The Hangover ,Warner Bros.,June 5 of  2009,0
-Gravity ,Warner Bros.,October 3 of  2013,0
-The Grinch ,Universal Pictures,November 7 of  2018,0
-Sing ,Universal Pictures,December 2 of  2016,0
-Shrek ,DreamWorks Distribution,May 16 of  2001,0
-Despicable Me 3 ,Universal Pictures,June 14 of  2017,0
-Harry Potter and the Chamber of Secrets ,Warner Bros.,November 14 of  2002,0
-The Amazing Spider-Man ,Sony Pictures Entertainment (SPE),June 28 of  2012,0
-The Incredibles ,Walt Disney Studios Motion Pictures,November 5 of  2004,0
-Jaws ,Universal Pictures,June 20 of  1975,0
-How the Grinch Stole Christmas ,Universal Pictures,November 17 of  2000,0
-Captain America: The Winter Soldier ,Walt Disney Studios Motion Pictures,March 26 of  2014,0
-The Lego Movie ,Warner Bros.,February 6 of  2014,0
-Star Trek ,Paramount Pictures,May 6 of  2009,0
-I Am Legend ,Warner Bros.,December 12 of  2007,0
-The Blind Side ,Warner Bros.,November 20 of  2009,0
-The Hangover Part II ,Warner Bros.,May 25 of  2011,0
-Despicable Me ,Universal Pictures,July 8 of  2010,0
-Batman ,Warner Bros.,June 23 of  1989,0
-Men in Black ,Sony Pictures Entertainment (SPE),July 2 of  1997,0
-Harry Potter and the Prisoner of Azkaban ,Warner Bros.,May 31 of  2004,0
-Indiana Jones and the Raiders of the Lost Ark ,Paramount Pictures,June 12 of  1981,0
-Toy Story 2 ,Walt Disney Studios Motion Pictures,November 19 of  1999,0
-Transformers: Age of Extinction ,Paramount Pictures,June 25 of  2014,0
-Cars ,Walt Disney Studios Motion Pictures,June 8 of  2006,0
-Ghostbusters ,Columbia Pictures,June 8 of  1984,0
-Bruce Almighty ,Universal Pictures,May 23 of  2003,0
-Twister ,Warner Bros.,May 10 of  1996,0
-My Big Fat Greek Wedding ,IFC Films,April 19 of  2002,0
-Maleficent ,Walt Disney Studios Motion Pictures,May 28 of  2014,0
-Pirates of the Caribbean: On Stranger Tides ,Walt Disney Studios Motion Pictures,May 18 of  2011,0
-Shrek Forever After ,DreamWorks,May 20 of  2010,0
-Fast & Furious 6 ,Universal Pictures,May 17 of  2013,0
-Brave ,Walt Disney Studios Motion Pictures,June 21 of  2012,0
-Oz the Great and Powerful ,Walt Disney Studios Motion Pictures,March 6 of  2013,0
-X-Men: The Last Stand ,Twentieth Century Fox,May 24 of  2006,0
-War of the Worlds ,Paramount Pictures,June 29 of  2005,0
-Fantastic Beasts and Where to Find Them ,Warner Bros.,November 16 of  2016,0
-X-Men: Days of Future Past ,Twentieth Century Fox,May 21 of  2014,0
-Cast Away ,Twentieth Century Fox,December 22 of  2000,0
-Doctor Strange ,Walt Disney Studios Motion Pictures,October 25 of  2016,0
-The Lost World: Jurassic Park ,Universal Pictures,May 23 of  1997,0
-Star Trek Into Darkness ,Paramount Pictures,May 8 of  2013,0
-The Martian ,Twentieth Century Fox,September 30 of  2015,0
-Signs ,Walt Disney Studios Motion Pictures,August 2 of  2002,0
-Hancock ,Sony Pictures Entertainment (SPE),July 2 of  2008,0
-The Bourne Ultimatum ,Universal Pictures,August 3 of  2007,0
-Logan ,Twentieth Century Fox,March 1 of  2017,0
-Rush Hour 2 ,New Line Cinema,August 3 of  2001,0
-The Fate of the Furious ,Universal Pictures,April 12 of  2017,0
-WALL·E ,Walt Disney Studios Motion Pictures,June 26 of  2008,0
-Big Hero 6 ,Walt Disney Studios Motion Pictures,October 25 of  2014,0
-Mission: Impossible - Fallout ,Paramount Pictures,July 25 of  2018,0
-Alvin and the Chipmunks: The Squeakquel ,Twentieth Century Fox,December 21 of  2009,0
-Mrs. Doubtfire ,Twentieth Century Fox,November 24 of  1993,0
-Beauty and the Beast ,Walt Disney Studios Motion Pictures,November 15 of  1991,0
-Ted ,Universal Pictures,June 29 of  2012,0
-King Kong ,Universal Pictures,December 14 of  2005,0
-Ghost ,Paramount Pictures,July 13 of  1990,0
-How to Train Your Dragon ,DreamWorks,March 18 of  2010,0
-The Da Vinci Code ,Sony Pictures Entertainment (SPE),May 17 of  2006,0
-Aladdin ,Walt Disney Studios Motion Pictures,November 13 of  1992,0
-Alvin and the Chipmunks ,Twentieth Century Fox,December 12 of  2007,0
-Saving Private Ryan ,DreamWorks Distribution,July 24 of  1998,0
-Bohemian Rhapsody ,Twentieth Century Fox,October 26 of  2018,0
-Madagascar 3: Europe's Most Wanted ,DreamWorks,June 6 of  2012,0
-Kung Fu Panda ,DreamWorks,June 5 of  2008,0
-Mission: Impossible II ,Paramount Pictures,May 24 of  2000,0
-A Star Is Born ,Warner Bros.,October 3 of  2018,0
-X2: X-Men United ,Twentieth Century Fox,April 30 of  2003,0
-The Lorax ,Universal Pictures,March 1 of  2012,0
-Solo: A Star Wars Story ,Walt Disney Studios Motion Pictures,May 23 of  2018,0
-Venom ,Sony Pictures Entertainment (SPE),October 3 of  2018,0
-Austin Powers in Goldmember ,New Line Cinema,July 26 of  2002,0
-It Chapter Two ,Warner Bros.,September 4 of  2019,0
-Back to the Future ,Universal Pictures,July 3 of  1985,0
-300 ,Warner Bros.,March 7 of  2007,0
-Fast Five ,Universal Pictures,April 20 of  2011,0
-Mission: Impossible - Ghost Protocol ,Paramount Pictures,December 14 of  2011,0
-Wedding Crashers ,New Line Cinema,July 14 of  2005,0
-Sherlock Holmes ,Warner Bros.,January 1 of  2009,0
-Dawn of the Planet of the Apes ,Twentieth Century Fox,July 9 of  2014,0
-Batman Begins ,Warner Bros.,June 15 of  2005,0
-Charlie and the Chocolate Factory ,Warner Bros.,July 14 of  2005,0
-Ratatouille ,Walt Disney Studios Motion Pictures,June 28 of  2007,0
-Thor: The Dark World ,Walt Disney Studios Motion Pictures,October 30 of  2013,0
-Bad Boys for Life ,Sony Pictures Entertainment (SPE),January 15 of  2020,0
-Austin Powers: The Spy Who Shagged Me ,New Line Cinema,June 11 of  1999,0
-Terminator 2: Judgment Day ,TriStar Pictures,July 3 of  1991,0
-World War Z ,Paramount Pictures,June 19 of  2013,0
-The Mummy Returns ,Universal Pictures,May 4 of  2001,0
-Armageddon ,Walt Disney Studios Motion Pictures,July 1 of  1998,0
-Cinderella ,Walt Disney Studios Motion Pictures,March 11 of  2015,0
-Ralph Breaks the Internet ,Walt Disney Studios Motion Pictures,November 21 of  2018,0
-Tangled ,Walt Disney Studios Motion Pictures,November 24 of  2010,0
-Godzilla ,Warner Bros.,May 14 of  2014,0
-Superman Returns ,Warner Bros.,June 28 of  2006,0
-Spectre ,Sony Pictures Entertainment (SPE),October 26 of  2015,0
-Pearl Harbor ,Walt Disney Studios Motion Pictures,May 25 of  2001,0
-Monsters vs. Aliens ,DreamWorks,March 19 of  2009,0
-Happy Feet ,Warner Bros.,November 17 of  2006,0
-Indiana Jones and the Last Crusade ,Paramount Pictures,May 24 of  1989,0
-Ice Age: Dawn of the Dinosaurs ,Twentieth Century Fox,June 29 of  2009,0
-Ice Age: The Meltdown ,Twentieth Century Fox,March 29 of  2006,0
-Mission: Impossible - Rogue Nation ,Paramount Pictures,July 24 of  2015,0
-Twilight ,Summit Entertainment,November 20 of  2008,0
-Men in Black II ,Sony Pictures Entertainment (SPE),July 3 of  2002,0
-22 Jump Street ,Sony Pictures Entertainment (SPE),June 5 of  2014,0
-Cars 2 ,Walt Disney Studios Motion Pictures,June 22 of  2011,0
-Teenage Mutant Ninja Turtles ,Paramount Pictures,August 7 of  2014,0
-Spider-Man: Into the Spider-Verse ,Sony Pictures Entertainment (SPE),December 12 of  2018,0
-Grease ,Paramount Pictures,June 16 of  1978,0
-Dunkirk ,Warner Bros.,July 19 of  2017,0
-Wreck-It Ralph ,Walt Disney Studios Motion Pictures,November 1 of  2012,0
-A Quiet Place ,Paramount Pictures,April 4 of  2018,0
-Interstellar ,Paramount Pictures,November 5 of  2014,0
-The Polar Express ,Warner Bros.,November 10 of  2004,0
-Gladiator ,DreamWorks Distribution,May 4 of  2000,0
-The Croods ,Twentieth Century Fox,March 15 of  2013,0
-The Day After Tomorrow ,Twentieth Century Fox,May 26 of  2004,0
-Mr. & Mrs. Smith ,Twentieth Century Fox,June 8 of  2005,0
-Pitch Perfect 2 ,Universal Pictures,May 7 of  2015,0
-Dances with Wolves ,Orion Pictures,November 9 of  1990,0
-Batman Forever ,Warner Bros.,June 16 of  1995,0
-The Revenant ,Twentieth Century Fox,December 25 of  2015,0
-Ocean's Eleven ,Warner Bros.,December 7 of  2001,0
-The Simpsons Movie ,Twentieth Century Fox,July 25 of  2007,0
-What Women Want ,Paramount Pictures,December 15 of  2000,0
-The Perfect Storm ,Warner Bros.,June 30 of  2000,0
-Lincoln ,Walt Disney Studios Motion Pictures,November 9 of  2012,0
-Jurassic Park III ,Universal Pictures,July 5 of  2001,0
-Thor ,Paramount Pictures,April 21 of  2011,0
-Mission: Impossible ,Paramount Pictures,May 22 of  1996,0
-Ant-Man ,Walt Disney Studios Motion Pictures,July 10 of  2015,0
-Planet of the Apes ,Twentieth Century Fox,July 27 of  2001,0
-Madagascar: Escape 2 Africa ,DreamWorks,October 30 of  2008,0
-X-Men Origins: Wolverine ,Twentieth Century Fox,April 29 of  2009,0
-Indiana Jones and the Temple of Doom ,Paramount Pictures,May 23 of  1984,0
-Hitch ,Sony Pictures Entertainment (SPE),February 11 of  2005,0
-Men in Black 3 ,Sony Pictures Entertainment (SPE),May 23 of  2012,0
-Pretty Woman ,Walt Disney Studios Motion Pictures,March 23 of  1990,0
-Home ,Twentieth Century Fox,March 19 of  2015,0
-Night at the Museum: Battle of the Smithsonian ,Twentieth Century Fox,May 20 of  2009,0
-Tootsie ,Columbia Pictures,December 17 of  1982,0
-How to Train Your Dragon 2 ,Twentieth Century Fox,June 5 of  2014,0
-Rise of the Planet of the Apes ,Twentieth Century Fox,August 3 of  2011,0
-Captain America: The First Avenger ,Paramount Pictures,July 22 of  2011,0
-Elf ,New Line Cinema,November 7 of  2003,0
-The Karate Kid ,Sony Pictures Entertainment (SPE),June 10 of  2010,0
-There's Something About Mary ,Twentieth Century Fox,July 15 of  1998,0
-Ice Age ,Twentieth Century Fox,March 14 of  2002,0
-The Bourne Supremacy ,Universal Pictures,July 23 of  2004,0
-The Lego Batman Movie ,Warner Bros.,February 2 of  2017,0
-Us ,Universal Pictures,March 20 of  2019,0
-Crazy Rich Asians ,Warner Bros.,August 15 of  2018,0
-The Greatest Showman ,Twentieth Century Fox,December 20 of  2017,0
-Fast & Furious Presents: Hobbs & Shaw ,Universal Pictures,July 1 of  2019,0
-National Treasure ,Walt Disney Studios Motion Pictures,November 19 of  2004,0
-Air Force One ,Sony Pictures Entertainment (SPE),July 25 of  1997,0
-Rain Man ,Metro-Goldwyn-Mayer (MGM),December 16 of  1988,0
-Pirates of the Caribbean: Dead Men Tell No Tales ,Walt Disney Studios Motion Pictures,May 24 of  2017,0
-TRON: Legacy ,Walt Disney Studios Motion Pictures,December 16 of  2010,0
-Mary Poppins Returns ,Walt Disney Studios Motion Pictures,December 19 of  2018,0
-The Matrix ,Warner Bros.,March 31 of  1999,0
-True Grit ,Paramount Pictures,December 22 of  2010,0
-Tarzan ,Walt Disney Studios Motion Pictures,June 16 of  1999,0
-John Wick: Chapter 3 - Parabellum ,Lionsgate,May 15 of  2019,0
-A Beautiful Mind ,Universal Pictures,December 21 of  2001,0
-Chicago ,Miramax,February 26 of  2002,0
-The Help ,Walt Disney Studios Motion Pictures,August 10 of  2011,0
-Hotel Transylvania 2 ,Sony Pictures Entertainment (SPE),September 21 of  2015,0
-Hidden Figures ,Twentieth Century Fox,December 25 of  2016,0
-Bridesmaids ,Universal Pictures,May 12 of  2011,0
-Quantum of Solace ,Sony Pictures Entertainment (SPE),October 31 of  2008,0
-Kong: Skull Island ,Warner Bros.,March 8 of  2017,0
-Three Men and a Baby ,Walt Disney Studios Motion Pictures,November 25 of  1987,0
-Gone Girl ,Twentieth Century Fox,October 2 of  2014,0
-Hotel Transylvania 3: Summer Vacation ,Sony Pictures Entertainment (SPE),June 28 of  2018,0
-Casino Royale ,Sony Pictures Entertainment (SPE),November 15 of  2006,0
-Meet the Parents ,Universal Pictures,October 6 of  2000,0
-Fifty Shades of Grey ,Universal Pictures,February 11 of  2015,0
-2012 ,Sony Pictures Entertainment (SPE),November 11 of  2009,0
-Robin Hood: Prince of Thieves ,Warner Bros.,June 14 of  1991,0
-Knives Out ,Lionsgate,November 21 of  2019,0
-Kung Fu Panda 2 ,DreamWorks,May 26 of  2011,0
-Hannibal ,Metro-Goldwyn-Mayer (MGM),February 9 of  2001,0
-Catch Me If You Can ,DreamWorks Distribution,December 25 of  2002,0
-The Proposal ,Walt Disney Studios Motion Pictures,June 17 of  2009,0
-The Pursuit of Happyness ,Sony Pictures Entertainment (SPE),December 15 of  2006,0
-Big Daddy ,Sony Pictures Entertainment (SPE),June 25 of  1999,0
-Clash of the Titans ,Warner Bros.,March 31 of  2010,0
-The SpongeBob Movie: Sponge Out of Water ,Paramount Pictures,January 28 of  2015,0
-Batman Returns ,Warner Bros.,June 19 of  1992,0
-Django Unchained ,The Weinstein Company,December 25 of  2012,0
-A Bug's Life ,Walt Disney Studios Motion Pictures,November 20 of  1998,0
-Jason Bourne ,Universal Pictures,July 27 of  2016,0
-Grown Ups ,Sony Pictures Entertainment (SPE),June 24 of  2010,0
-The Waterboy ,Walt Disney Studios Motion Pictures,November 6 of  1998,0
-Ice Age: Continental Drift ,Twentieth Century Fox,June 27 of  2012,0
-Straight Outta Compton ,Universal Pictures,August 14 of  2015,0
-Die Another Day ,Metro-Goldwyn-Mayer (MGM),November 20 of  2002,0
-Shark Tale ,DreamWorks Distribution,September 23 of  2004,0
-How to Train Your Dragon: The Hidden World ,Universal Pictures,January 3 of  2019,0
-The Heat ,Twentieth Century Fox,February 22 of  1996,0
-Fantastic Beasts: The Crimes of Grindelwald ,Warner Bros.,October 12 of  2018,0
-Halloween ,Universal Pictures,October 17 of  2018,0
-1917 ,Universal Pictures,December 25 of  2019,0
-The Secret Life of Pets 2 ,Universal Pictures,May 24 of  2019,0
-Star Trek Beyond ,Paramount Pictures,July 20 of  2016,0
-The Longest Yard ,Paramount Pictures,May 27 of  2005,0
-X-Men ,Twentieth Century Fox,July 13 of  2000,0
-Scary Movie ,Miramax,July 7 of  2000,0
-Who Framed Roger Rabbit ,Walt Disney Studios Motion Pictures,June 24 of  1988,0
-What Lies Beneath ,DreamWorks Distribution,July 21 of  2000,0
-X-Men: Apocalypse ,Twentieth Century Fox,May 18 of  2016,0
-The Mummy ,Universal Pictures,May 7 of  1999,0
-Snow White and the Huntsman ,Universal Pictures,May 30 of  2012,0
-San Andreas ,Warner Bros.,May 22 of  2015,0
-Fast & Furious ,Universal Pictures,April 2 of  2009,0
-Fantastic Four ,Twentieth Century Fox,July 6 of  2005,0
-Horton Hears a Who! ,Twentieth Century Fox,March 12 of  2008,0
-Mad Max: Fury Road ,Warner Bros.,May 7 of  2015,0
-Jerry Maguire ,Sony Pictures Entertainment (SPE),December 13 of  1996,0
-Trolls ,Twentieth Century Fox,October 13 of  2016,0
-Scooby-Doo ,Warner Bros.,June 14 of  2002,0
-Sex and the City ,Warner Bros.,May 28 of  2008,0
-Runaway Bride ,Paramount Pictures,July 30 of  1999,0
-La La Land ,Lionsgate,December 7 of  2016,0
-Divergent ,Lionsgate,March 20 of  2014,0
-We're the Millers ,Warner Bros.,August 29 of  2012,0
-Terminator 3: Rise of the Machines ,Warner Bros.,July 2 of  2003,0
-G.I. Joe: The Rise of Cobra ,Paramount Pictures,August 5 of  2009,0
-Neighbors ,Universal Pictures,May 8 of  2014,0
-American Hustle ,Sony Pictures Entertainment (SPE),December 12 of  2013,0
-Puss in Boots ,DreamWorks,October 27 of  2011,0
-Sonic the Hedgehog ,Paramount Pictures,February 12 of  2020,0
-Les Misérables ,Universal Pictures,December 19 of  2012,0
-Knocked Up ,Universal Pictures,June 1 of  2007,0
-As Good as It Gets ,Sony Pictures Entertainment (SPE),December 23 of  1997,0
-Little Fockers ,Universal Pictures,December 22 of  2010,0
-Megamind ,DreamWorks,October 28 of  2010,0
-Hotel Transylvania ,Sony Pictures Entertainment (SPE),September 20 of  2012,0
-Talladega Nights: The Ballad of Ricky Bobby ,Sony Pictures Entertainment (SPE),August 4 of  2006,0
-Gran Torino ,Warner Bros.,December 12 of  2008,0
-War for the Planet of the Apes ,Twentieth Century Fox,July 11 of  2017,0
-X-Men: First Class ,Twentieth Century Fox,June 1 of  2011,0
-Paul Blart: Mall Cop ,Sony Pictures Entertainment (SPE),January 16 of  2009,0
-True Lies ,Twentieth Century Fox,July 15 of  1994,0
-Lilo & Stitch ,Walt Disney Studios Motion Pictures,June 21 of  2002,0
-The Santa Clause ,Walt Disney Studios Motion Pictures,November 11 of  1994,0
-The Meg ,Warner Bros.,August 8 of  2018,0
-American Pie 2 ,Universal Pictures,August 10 of  2001,0
-Taken ,Twentieth Century Fox,February 27 of  2008,0
-The Great Gatsby ,Warner Bros.,May 10 of  2013,0
-I Robot ,Twentieth Century Fox,July 15 of  2004,0
-Lethal Weapon 3 ,Warner Bros.,May 15 of  1992,0
-The Fast and the Furious ,Universal Pictures,June 22 of  2001,0
-Mamma Mia! ,Universal Pictures,June 27 of  2008,0
-Pokémon Detective Pikachu ,Warner Bros.,May 3 of  2019,0
-Rio ,Twentieth Century Fox,April 4 of  2011,0
-Kung Fu Panda 3 ,Twentieth Century Fox,January 28 of  2016,0
-Juno ,Fox Searchlight Pictures,December 5 of  2007,0
-The Smurfs ,Sony Pictures Entertainment (SPE),July 27 of  2011,0
-Once Upon a Time... In Hollywood ,Sony Pictures Entertainment (SPE),July 25 of  2019,0
-xXx ,Revolution Studios,August 9 of  2002,0
-The Chronicles of Narnia: Prince Caspian ,Walt Disney Studios Motion Pictures,May 15 of  2008,0
-A Few Good Men ,Columbia Pictures,December 11 of  1992,0
-Slumdog Millionaire ,Fox Searchlight Pictures,November 12 of  2008,0
-Rush Hour ,New Line Cinema,September 18 of  1998,0
-The Blair Witch Project ,Artisan Entertainment,July 16 of  1999,0
-Shazam! ,Warner Bros.,April 3 of  2019,0
-Ocean's Eight ,Warner Bros.,June 7 of  2018,0
-Rush Hour 3 ,New Line Cinema,August 8 of  2007,0
-Stuart Little ,Sony Pictures Entertainment (SPE),December 17 of  1999,0
-Taken 2 ,Twentieth Century Fox,September 27 of  2012,0
-The Matrix Revolutions ,Warner Bros.,November 5 of  2003,0
-The Santa Clause 2 ,Walt Disney Studios Motion Pictures,November 1 of  2002,0
-The King's Speech ,The Weinstein Company,November 26 of  2010,0
-Cheaper by the Dozen ,Twentieth Century Fox,December 25 of  2003,0
-Bad Boys II ,Sony Pictures Entertainment (SPE),July 18 of  2003,0
-Platoon ,Orion Pictures,December 19 of  1986,0
-21 Jump Street ,Sony Pictures Entertainment (SPE),March 15 of  2012,0
-Split ,Universal Pictures,January 18 of  2017,0
-A Christmas Carol ,Walt Disney Studios Motion Pictures,September 9 of  2009,0
-Dinosaur ,Walt Disney Studios Motion Pictures,May 19 of  2000,0
-Ready Player One ,Warner Bros.,March 28 of  2018,0
-The Conjuring ,Warner Bros.,July 18 of  2013,0
-Click ,Revolution Studios,June 22 of  2006,0
-The Green Mile ,Warner Bros.,December 10 of  1999,0
-Godzilla ,Sony Pictures Entertainment (SPE),May 20 of  1998,0
-Argo ,Warner Bros.,October 11 of  2012,0
-Anger Management ,Revolution Studios,April 11 of  2003,0
-Chicken Little ,Walt Disney Studios Motion Pictures,November 4 of  2005,0
-Teenage Mutant Ninja Turtles ,New Line Cinema,March 30 of  1990,0
-Patch Adams ,Universal Pictures,December 25 of  1998,0
-The Godfather ,Paramount Pictures,March 15 of  1972,0
-Ride Along ,Universal Pictures,January 17 of  2014,0
-The Incredible Hulk ,Universal Pictures,June 11 of  2008,0
-Live Free or Die Hard ,Twentieth Century Fox,June 26 of  2007,0
-Wanted ,Universal Pictures,June 26 of  2008,0
-Identity Thief ,Universal Pictures,February 7 of  2013,0
-Superman ,Warner Bros.,December 15 of  1978,0
-The Rock ,Walt Disney Studios Motion Pictures,June 7 of  1996,0
-Mission: Impossible III ,Paramount Pictures,May 3 of  2006,0
-Grown Ups 2 ,Sony Pictures Entertainment (SPE),July 11 of  2013,0
-Troy ,Warner Bros.,May 12 of  2004,0
-Angels & Demons ,Sony Pictures Entertainment (SPE),May 13 of  2009,0
-Alvin and the Chipmunks: Chipwrecked ,Twentieth Century Fox,December 14 of  2011,0
-Bringing Down the House ,Walt Disney Studios Motion Pictures,March 7 of  2003,0
-The Wolverine ,Twentieth Century Fox,July 24 of  2013,0
-The Departed ,Warner Bros.,October 5 of  2006,0
-Hulk ,Universal Pictures,June 19 of  2003,0
-Silver Linings Playbook ,The Weinstein Company,November 16 of  2012,0
-Minority Report ,Twentieth Century Fox,June 20 of  2002,0
-Fantastic 4: Rise of the Silver Surfer ,Twentieth Century Fox,June 13 of  2007,0
-The Last Airbender ,Paramount Pictures,July 1 of  2010,0
-Rio 2 ,Twentieth Century Fox,March 20 of  2014,0
-Lara Croft: Tomb Raider ,Paramount Pictures,June 15 of  2001,0
-The Silence of the Lambs ,Orion Pictures,February 14 of  1991,0
-The Flintstones ,Universal Pictures,May 27 of  1994,0
-Lethal Weapon 4 ,Warner Bros.,July 10 of  1998,0
-Get Smart ,Warner Bros.,June 19 of  2008,0
-The Divergent Series: Insurgent ,Lionsgate,March 18 of  2015,0
-The Peanuts Movie ,Twentieth Century Fox,October 29 of  2015,0
-Transformers: The Last Knight ,Paramount Pictures,June 21 of  2017,0
-American Gangster ,Universal Pictures,November 2 of  2007,0
-American Beauty ,DreamWorks Distribution,September 15 of  1999,0
-The Ring ,DreamWorks Distribution,October 18 of  2002,0
-The Nutty Professor ,Universal Pictures,June 28 of  1996,0
-Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,Twentieth Century Fox,February 23 of  2006,0
-Ghostbusters ,Sony Pictures Entertainment (SPE),July 11 of  2016,0
-Kingsman: The Secret Service ,Twentieth Century Fox,January 30 of  2015,0
-Robots ,Twentieth Century Fox,March 10 of  2005,0
-Crouching Tiger Hidden Dragon ,Sony Pictures Classics,December 8 of  2000,0
-Shutter Island ,Paramount Pictures,February 18 of  2010,0
-Into the Woods ,Walt Disney Studios Motion Pictures,December 24 of  2014,0
-Enchanted ,Walt Disney Studios Motion Pictures,November 21 of  2007,0
-The Curious Case of Benjamin Button ,Paramount Pictures,December 25 of  2008,0
-Central Intelligence ,Warner Bros.,June 15 of  2016,0
-Anchorman 2: The Legend Continues ,Paramount Pictures,December 18 of  2013,0
-Sweet Home Alabama ,Walt Disney Studios Motion Pictures,September 27 of  2002,0
-Bumblebee ,Paramount Pictures,December 19 of  2018,0
-Dumb and Dumber ,New Line Cinema,December 16 of  1994,0
-2 Fast 2 Furious ,Universal Pictures,June 5 of  2003,0
-My Best Friend's Wedding ,Sony Pictures Entertainment (SPE),June 20 of  1997,0
-Super 8 ,Paramount Pictures,June 9 of  2011,0
-The World Is Not Enough ,Metro-Goldwyn-Mayer (MGM),November 19 of  1999,0
-Sleepless in Seattle ,TriStar Pictures,June 25 of  1993,0
-Lucy ,Universal Pictures,July 25 of  2014,0
-The Legend of Tarzan ,Warner Bros.,June 29 of  2016,0
-Bee Movie ,DreamWorks,November 1 of  2007,0
-Prometheus ,Twentieth Century Fox,May 30 of  2012,0
-Safe House ,Universal Pictures,February 8 of  2012,0
-Mr. Deeds ,Sony Pictures Entertainment (SPE),June 28 of  2002,0
-Erin Brockovich ,Universal Pictures,March 17 of  2000,0
-Ocean's Twelve ,Warner Bros.,December 9 of  2004,0
-Terminator Salvation ,Warner Bros.,May 20 of  2009,0
-Charlie's Angels ,Sony Pictures Entertainment (SPE),November 3 of  2000,0
-Lone Survivor ,Universal Pictures,December 25 of  2013,0
-Sully ,Warner Bros.,September 8 of  2016,0
-The Vow ,Screen Gems,February 9 of  2012,0
-Life of Pi ,Twentieth Century Fox,November 21 of  2012,0
-The Fault in Our Stars ,Twentieth Century Fox,June 4 of  2014,0
-Cloudy with a Chance of Meatballs ,Sony Pictures Entertainment (SPE),September 16 of  2009,0
-The Devil Wears Prada ,Twentieth Century Fox,June 30 of  2006,0
-Something's Gotta Give ,Sony Pictures Entertainment (SPE),December 12 of  2003,0
-City Slickers ,Columbia Pictures,June 7 of  1991,0
-Rango ,Paramount Pictures,March 2 of  2011,0
-Nutty Professor II: The Klumps ,Universal Pictures,July 28 of  2000,0
-G.I. Joe: Retaliation ,Paramount Pictures,March 27 of  2013,0
-Clear and Present Danger ,Paramount Pictures,August 5 of  1994,0
-The Hunt for Red October ,Paramount Pictures,March 2 of  1990,0
-Wayne's World ,Paramount Pictures,February 14 of  1992,0
-The Bourne Identity ,Universal Pictures,June 14 of  2002,0
-Superbad ,Sony Pictures Entertainment (SPE),August 17 of  2007,0
-Speed ,Twentieth Century Fox,June 10 of  1994,0
-50 First Dates ,Sony Pictures Entertainment (SPE),February 13 of  2004,0
-Mamma Mia! Here We Go Again ,Universal Pictures,July 18 of  2018,0
-Inglourious Basterds ,The Weinstein Company,August 19 of  2009,0
-Seabiscuit ,Universal Pictures,July 25 of  2003,0
-Van Helsing ,Universal Pictures,May 5 of  2004,0
-Four Christmases ,Warner Bros.,November 26 of  2008,0
-I Now Pronounce You Chuck & Larry ,Universal Pictures,July 20 of  2007,0
-The Mask ,New Line Cinema,July 29 of  1994,0
-Cloudy with a Chance of Meatballs 2 ,Sony Pictures Entertainment (SPE),September 26 of  2013,0
-Hook ,TriStar Pictures,December 11 of  1991,0
-Walk the Line ,Twentieth Century Fox,February 2 of  2005,0
-G-Force ,Walt Disney Studios Motion Pictures,July 23 of  2009,0
-Total Recall ,Sony Pictures Entertainment (SPE),June 1 of  1990,0
-The Other Guys ,Sony Pictures Entertainment (SPE),August 6 of  2010,0
-Fahrenheit 9/11 ,Lionsgate,June 23 of  2004,0
-Back to the Future Part II ,Universal Pictures,November 22 of  1989,0
-The Sum of All Fears ,Paramount Pictures,May 31 of  2002,0
-The Break-Up ,Universal Pictures,June 2 of  2006,0
-A Series of Unfortunate Events ,Paramount Pictures,December 16 of  2004,0
-Blades of Glory ,DreamWorks,March 30 of  2007,0
-Salt ,Sony Pictures Entertainment (SPE),July 21 of  2010,0
-Basic Instinct ,TriStar Pictures,March 20 of  1992,0
-Now You See Me ,Lionsgate,May 29 of  2013,0
-Ford v Ferrari ,Twentieth Century Fox,November 13 of  2019,0
-Big Momma's House ,Twentieth Century Fox,June 2 of  2000,0
-Die Hard 2 ,Twentieth Century Fox,July 6 of  1990,0
-Horrible Bosses ,Warner Bros.,July 7 of  2011,0
-The Nun ,Warner Bros.,September 5 of  2018,0
-Jackass 3D ,Paramount Pictures,October 15 of  2010,0
-S.W.A.T. ,Sony Pictures Entertainment (SPE),August 8 of  2003,0
-The Wolf of Wall Street ,Paramount Pictures,December 25 of  2013,0
-8 Mile ,Universal Pictures,November 8 of  2002,0
-Double Jeopardy ,Paramount Pictures,September 24 of  1999,0
-Lee Daniels' The Butler ,The Weinstein Company,August 16 of  2013,0
-Green Lantern ,Warner Bros.,June 15 of  2011,0
-Notting Hill ,Universal Pictures,May 28 of  1999,0
-You've Got Mail ,Warner Bros.,December 18 of  1998,0
-Ghost Rider ,Sony Pictures Entertainment (SPE),February 14 of  2007,0
-Remember the Titans ,Walt Disney Studios Motion Pictures,September 29 of  2000,0
-Creed II ,Metro-Goldwyn-Mayer (MGM),November 21 of  2018,0
-District 9 ,TriStar Pictures,August 13 of  2009,0
-Unbroken ,Universal Pictures,December 25 of  2014,0
-Peter Rabbit ,Sony Pictures Entertainment (SPE),February 8 of  2018,0
-Girls Trip ,Universal Pictures,July 21 of  2017,0
-Dumbo ,Walt Disney Studios Motion Pictures,March 27 of  2019,0
-Fifty Shades Darker ,Universal Pictures,February 8 of  2017,0
-Dodgeball: A True Underdog Story ,Twentieth Century Fox,June 18 of  2004,0
-The Village ,Walt Disney Studios Motion Pictures,August 13 of  2003,0
-Bolt ,Walt Disney Studios Motion Pictures,November 21 of  2008,0
-Maleficent: Mistress of Evil ,Walt Disney Studios Motion Pictures,October 16 of  2019,0
-Wild Wild West ,Warner Bros.,June 30 of  1999,0
-Night at the Museum: Secret of the Tomb ,Twentieth Century Fox,December 17 of  2014,0
-Magic Mike ,Warner Bros.,June 28 of  2012,0
-The Addams Family ,Paramount Pictures,November 22 of  1991,0
-The Patriot ,Sony Pictures Entertainment (SPE),June 28 of  2000,0
-Bad Moms ,STX Entertainment,July 28 of  2016,0
-The Bourne Legacy ,Universal Pictures,August 8 of  2012,0
-The Pacifier ,Walt Disney Studios Motion Pictures,March 4 of  2005,0
-Dr. Dolittle 2 ,Twentieth Century Fox,June 22 of  2001,0
-It's Complicated ,Universal Pictures,December 23 of  2009,0
-Spy Kids ,Miramax,March 30 of  2001,0
-Face/Off ,Paramount Pictures,June 27 of  1997,0
-The Hangover Part III ,Warner Bros.,May 23 of  2013,0
-Twins ,Universal Pictures,December 9 of  1988,0
-Spy Kids 3-D: Game Over ,Dimension Films,July 25 of  2003,0
-Enemy of the State ,Walt Disney Studios Motion Pictures,November 20 of  1998,0
-Mr. Peabody & Sherman ,Twentieth Century Fox,February 7 of  2014,0
-The Last Samurai ,Warner Bros.,December 5 of  2003,0
-Glass ,Universal Pictures,January 16 of  2019,0
-Spy ,Twentieth Century Fox,May 21 of  2015,0
-Tropic Thunder ,DreamWorks,August 13 of  2008,0
-Godzilla: King of the Monsters ,Warner Bros.,May 29 of  2019,0
-Valentine's Day ,Warner Bros.,February 10 of  2010,0
-The Grudge ,Sony Pictures Entertainment (SPE),October 22 of  2004,0
-Fun with Dick and Jane ,Sony Pictures Entertainment (SPE),December 21 of  2005,0
-Freaky Friday ,Walt Disney Studios Motion Pictures,August 6 of  2003,0
-Trainwreck ,Universal Pictures,July 17 of  2015,0
-Bedtime Stories ,Walt Disney Studios Motion Pictures,December 24 of  2008,0
-Scary Movie 3 ,Dimension Films,October 24 of  2003,0
-Creed ,Warner Bros.,November 25 of  2015,0
-The 40-Year-Old Virgin ,Universal Pictures,August 19 of  2005,0
-Couples Retreat ,Universal Pictures,October 8 of  2009,0
-Black Hawk Down ,Revolution Studios,December 28 of  2001,0
-Terms of Endearment ,Paramount Pictures,November 23 of  1983,0
-The Upside ,STX Entertainment,January 10 of  2019,0
-The Princess Diaries ,Walt Disney Studios Motion Pictures,August 3 of  2001,0
-Superman II ,Warner Bros.,June 19 of  1981,0
-Little Women ,Sony Pictures Entertainment (SPE),December 25 of  2019,0
-Hop ,Universal Pictures,March 30 of  2011,0
-Pulp Fiction ,Miramax,October 14 of  1994,0
-Paranormal Activity ,Paramount Pictures,September 25 of  2009,0
-Baby Driver ,TriStar Pictures,June 28 of  2017,0
-A League of Their Own ,Sony Pictures Entertainment (SPE),July 1 of  1992,0
-Epic ,Twentieth Century Fox,May 16 of  2013,0
-Watchmen ,Warner Bros.,March 4 of  2009,0
-The Angry Birds Movie ,Sony Pictures Entertainment (SPE),May 11 of  2016,0
-Batman & Robin ,Warner Bros.,June 20 of  1997,0
-Captain Phillips ,Sony Pictures Entertainment (SPE),October 11 of  2013,0
-Black Swan ,Fox Searchlight Pictures,December 3 of  2010,0
-Analyze This ,Warner Bros.,March 5 of  1999,0
-Chicken Run ,DreamWorks Distribution,June 23 of  2000,0
-Miss Congeniality ,Warner Bros.,December 22 of  2000,0
-300: Rise of an Empire ,Warner Bros.,March 5 of  2014,0
-The Italian Job ,Paramount Pictures,May 30 of  2003,0
-The Lego Movie 2: The Second Part ,Warner Bros.,February 6 of  2019,0
-Robin Hood ,Universal Pictures,May 12 of  2010,0
-Interview with the Vampire: The Vampire Chronicles ,Warner Bros.,November 11 of  1994,0
-George of the Jungle ,Walt Disney Studios Motion Pictures,July 18 of  1997,0
-Hustlers ,STX Entertainment,September 12 of  2019,0
-Pitch Perfect 3 ,Universal Pictures,December 21 of  2017,0
-American Wedding ,Universal Pictures,August 1 of  2003,0
-Road to Perdition ,DreamWorks Distribution,July 12 of  2002,0
-The Princess and the Frog ,Walt Disney Studios Motion Pictures,November 25 of  2009,0
-The Chronicles of Narnia: The Voyage of the Dawn Treader ,Twentieth Century Fox,December 2 of  2010,0
-Daddy Day Care ,Revolution Studios,May 9 of  2003,0
-Daddy's Home 2 ,Paramount Pictures,November 9 of  2017,0
-Paranormal Activity 3 ,Paramount Pictures,October 19 of  2011,0
-Journey 2: The Mysterious Island ,Warner Bros.,January 19 of  2012,0
-The Mule ,Warner Bros.,December 14 of  2018,0
-Dick Tracy ,Walt Disney Studios Motion Pictures,June 15 of  1990,0
-Rise of the Guardians ,DreamWorks,November 21 of  2012,0
-Independence Day: Resurgence ,Twentieth Century Fox,June 22 of  2016,0
-The Expendables ,Lionsgate,August 12 of  2010,0
-Scream ,Dimension Films,December 20 of  1996,0
-Just Go with It ,Sony Pictures Entertainment (SPE),February 9 of  2011,0
-Murder on the Orient Express ,Twentieth Century Fox,November 3 of  2017,0
-The General's Daughter ,Paramount Pictures,June 18 of  1999,0
-The Aviator ,Miramax,December 17 of  2004,0
-American Pie ,Universal Pictures,July 9 of  1999,0
-Daredevil ,Twentieth Century Fox,February 14 of  2003,0
-The Girl with the Dragon Tattoo ,Sony Pictures Entertainment (SPE),December 21 of  2011,0
-The Mummy: Tomb of the Dragon Emperor ,Universal Pictures,July 30 of  2008,0
-The Conjuring 2 ,Warner Bros.,June 8 of  2016,0
-The Maze Runner ,Twentieth Century Fox,September 11 of  2014,0
-In the Line of Fire ,Columbia Pictures,July 9 of  1993,0
-Annabelle: Creation ,Warner Bros.,August 3 of  2017,0
-The Equalizer 2 ,Sony Pictures Entertainment (SPE),July 18 of  2018,0
-Bad Grandpa ,Paramount Pictures,October 23 of  2013,0
-Pacific Rim ,Warner Bros.,July 11 of  2013,0
-Journey to the Center of the Earth ,Warner Bros.,July 10 of  2008,0
-Gone in 60 Seconds ,Walt Disney Studios Motion Pictures,June 9 of  2000,0
-Sleeping with the Enemy ,Twentieth Century Fox,February 8 of  1991,0
-The Equalizer ,Sony Pictures Entertainment (SPE),September 24 of  2014,0
-This Is the End ,Sony Pictures Entertainment (SPE),June 12 of  2013,0
-Eagle Eye ,DreamWorks,September 25 of  2008,0
-The Prince of Egypt ,DreamWorks Distribution,December 18 of  1998,0
-Scream 2 ,Dimension Films,December 12 of  1997,0
-Eraser ,Warner Bros.,June 21 of  1996,0
-Noah ,Paramount Pictures,March 20 of  2014,0
-The Cat in the Hat ,Universal Pictures,November 21 of  2003,0
-Con Air ,Walt Disney Studios Motion Pictures,June 6 of  1997,0
-Sleepy Hollow ,Paramount Pictures,November 19 of  1999,0
-Rampage ,Warner Bros.,April 11 of  2018,0
-Collateral ,DreamWorks Distribution,August 5 of  2004,0
-Contact ,Warner Bros.,July 11 of  1997,0
-Charlie's Angels: Full Throttle ,Sony Pictures Entertainment (SPE),June 26 of  2003,0
-The Addams Family ,United Artists Releasing,October 11 of  2019,0
-Vanilla Sky ,Paramount Pictures,December 14 of  2001,0
-Arrival ,Paramount Pictures,November 10 of  2016,0
-Due Date ,Warner Bros.,November 3 of  2010,0
-Jumanji ,Sony Pictures Entertainment (SPE),December 15 of  1995,0
-The Rugrats Movie ,Paramount Pictures,November 20 of  1998,0
-Million Dollar Baby ,Warner Bros.,December 15 of  2004,0
-Step Brothers ,Sony Pictures Entertainment (SPE),July 25 of  2008,0
-Evan Almighty ,Universal Pictures,June 21 of  2007,0
-Fifty Shades Freed ,Universal Pictures,February 7 of  2018,0
-Shakespeare in Love ,Miramax,December 11 of  1998,0
-Bad Teacher ,Sony Pictures Entertainment (SPE),June 17 of  2011,0
-Yogi Bear ,Warner Bros.,December 17 of  2010,0
-Cowboys & Aliens ,Universal Pictures,July 29 of  2011,0
-Kingsman: The Golden Circle ,Twentieth Century Fox,September 20 of  2017,0
-Edge of Tomorrow ,Warner Bros.,May 28 of  2014,0
-The Hunchback of Notre Dame ,Walt Disney Studios Motion Pictures,June 21 of  1996,0
-Se7en ,New Line Cinema,September 22 of  1995,0
-You Don't Mess with the Zohan ,Sony Pictures Entertainment (SPE),June 5 of  2008,0
-Passengers ,Sony Pictures Entertainment (SPE),December 21 of  2016,0
-Die Hard with a Vengeance ,Twentieth Century Fox,May 19 of  1995,0
-Christopher Robin ,Walt Disney Studios Motion Pictures,August 1 of  2018,0
-Hercules ,Walt Disney Studios Motion Pictures,June 15 of  1997,0
-Olympus Has Fallen ,FilmDistrict,March 20 of  2013,0
-The Green Hornet ,Sony Pictures Entertainment (SPE),January 12 of  2011,0
-Date Night ,Twentieth Century Fox,April 8 of  2010,0
-Yes Man ,Warner Bros.,December 18 of  2008,0
-Sausage Party ,Sony Pictures Entertainment (SPE),August 11 of  2016,0
-Inspector Gadget ,Walt Disney Studios Motion Pictures,July 23 of  1999,0
-Public Enemies ,Universal Pictures,June 24 of  2009,0
-The Social Network ,Sony Pictures Entertainment (SPE),October 1 of  2010,0
-Schindler's List ,Universal Pictures,December 15 of  1993,0
-Downton Abbey ,Focus Features,September 12 of  2019,0
-The Others ,Miramax,August 10 of  2001,0
-Legally Blonde ,Metro-Goldwyn-Mayer (MGM),July 13 of  2001,0
-Panic Room ,Sony Pictures Entertainment (SPE),March 29 of  2002,0
-Rocketman ,Paramount Pictures,May 24 of  2019,0
-Zero Dark Thirty ,Sony Pictures Entertainment (SPE),December 19 of  2012,0
-Norbit ,DreamWorks,February 9 of  2007,0
-Cold Mountain ,Miramax,December 25 of  2003,0
-Sex and the City 2 ,Warner Bros.,May 27 of  2010,0
-The Princess Diaries 2: Royal Engagement ,Walt Disney Studios Motion Pictures,August 11 of  2004,0
-42 ,Warner Bros.,April 12 of  2013,0
-Unbreakable ,Walt Disney Studios Motion Pictures,November 22 of  2000,0
-The Book of Eli ,Warner Bros.,January 14 of  2010,0
-10000 BC ,Warner Bros.,March 5 of  2008,0
-Julie & Julia ,Sony Pictures Entertainment (SPE),August 6 of  2009,0
-The Mask of Zorro ,Sony Pictures Entertainment (SPE),July 17 of  1998,0
-Maid in Manhattan ,Revolution Studios,December 13 of  2002,0
-Master and Commander: The Far Side of the World ,Twentieth Century Fox,November 14 of  2003,0
-Flight ,Paramount Pictures,November 2 of  2012,0
-The Fighter ,Paramount Pictures,November 20 of  2009,0
-America's Sweethearts ,Revolution Studios,July 20 of  2001,0
-The Bucket List ,Warner Bros.,December 25 of  2007,0
-Tomorrowland ,Walt Disney Studios Motion Pictures,May 20 of  2015,0
-The Magnificent Seven ,Sony Pictures Entertainment (SPE),September 14 of  2016,0
-Cats & Dogs ,Warner Bros.,July 4 of  2001,0
-Two Weeks Notice ,Warner Bros.,December 20 of  2002,0
-Red Dragon ,Universal Pictures,October 4 of  2002,0
-Elysium ,TriStar Pictures,August 8 of  2013,0
-The Town ,Warner Bros.,September 15 of  2010,0
-Non-Stop ,Universal Pictures,February 19 of  2014,0
-Blade Runner 2049 ,Warner Bros.,October 4 of  2017,0
-Halloween Kills ,Universal Pictures,October 13 of  2021,0
-Think Like a Man ,Screen Gems,April 20 of  2012,0
-Kindergarten Cop ,Universal Pictures,December 22 of  1990,0
-Heaven Is for Real ,TriStar Pictures,April 16 of  2014,0
-The Haunting ,DreamWorks Distribution,July 23 of  1999,0
-Ride Along 2 ,Universal Pictures,January 15 of  2015,0
-Stepmom ,Sony Pictures Entertainment (SPE),December 25 of  1998,0
-The Scorpion King ,Universal Pictures,April 18 of  2002,0
-Prince of Persia: The Sands of Time ,Walt Disney Studios Motion Pictures,July 16 of  2009,0
-Antz ,DreamWorks Distribution,October 2 of  1998,0
-Scary Movie 4 ,Dimension Films,April 12 of  2006,0
-Me Myself & Irene ,Twentieth Century Fox,June 23 of  2000,0
-High School Musical 3: Senior Year ,Walt Disney Studios Motion Pictures,October 22 of  2008,0
-Space Cowboys ,Warner Bros.,August 4 of  2000,0
-Get Hard ,Warner Bros.,March 26 of  2015,0
-RED ,Summit Entertainment,October 14 of  2010,0
-Planes ,Walt Disney Studios Motion Pictures,August 9 of  2013,0
-Legally Blonde 2: Red White & Blonde ,Metro-Goldwyn-Mayer (MGM),July 2 of  2003,0
-Mystic River ,Warner Bros.,October 8 of  2003,0
-Terminator Genisys ,Paramount Pictures,June 25 of  2015,0
-The Emperor's New Groove ,Walt Disney Studios Motion Pictures,December 15 of  2000,0
-The Lone Ranger ,Walt Disney Studios Motion Pictures,July 3 of  2013,0
-Taken 3 ,Twentieth Century Fox,January 1 of  2015,0
-Don't Breathe ,Screen Gems,August 25 of  2016,0
-Scream 3 ,Dimension Films,February 4 of  2000,0
-Oblivion ,Universal Pictures,April 10 of  2013,0
-The Ugly Truth ,Sony Pictures Entertainment (SPE),February 26 of  2009,0
-Percy Jackson & the Olympians: The Lightning Thief ,Twentieth Century Fox,February 10 of  2010,0
-Failure to Launch ,Paramount Pictures,March 9 of  2006,0
-The Muppets ,Walt Disney Studios Motion Pictures,November 23 of  2011,0
-Inside Man ,Universal Pictures,March 23 of  2006,0
-Back to the Future Part III ,Universal Pictures,May 25 of  1990,0
-Waterworld ,Universal Pictures,July 28 of  1995,0
-Starsky & Hutch ,Warner Bros.,March 5 of  2004,0
-Along Came Polly ,Universal Pictures,January 16 of  2004,0
-Entrapment ,Twentieth Century Fox,April 30 of  1999,0
-Pineapple Express ,Sony Pictures Entertainment (SPE),August 6 of  2008,0
-Miss Peregrine's Home for Peculiar Children ,Twentieth Century Fox,September 28 of  2016,0
-Sisters ,Universal Pictures,December 18 of  2015,0
-Saw II ,Lionsgate,October 28 of  2005,0
-The Naked Gun 2½: The Smell of Fear ,Paramount Pictures,June 28 of  1991,0
-The Accountant ,Warner Bros.,October 13 of  2016,0
-Dumb and Dumber To ,Universal Pictures,November 12 of  2014,0
-The Emoji Movie ,Sony Pictures Entertainment (SPE),July 27 of  2017,0
-Mean Girls ,Paramount Pictures,April 30 of  2004,0
-Annie ,Sony Pictures Entertainment (SPE),December 17 of  2014,0
-Spy Kids 2: Island of Lost Dreams ,Dimension Films,August 7 of  2002,0
-Alita: Battle Angel ,Twentieth Century Fox,February 5 of  2019,0
-Fury ,Sony Pictures Entertainment (SPE),October 17 of  2014,0
-Pokémon: The First Movie - Mewtwo Strikes Back ,Warner Bros.,November 10 of  1999,0
-The SpongeBob SquarePants Movie ,Paramount Pictures,November 19 of  2004,0
-Power Rangers ,Lionsgate,March 22 of  2017,0
-Anchorman: The Legend of Ron Burgundy ,DreamWorks Distribution,July 9 of  2004,0
-Open Season ,Sony Pictures Entertainment (SPE),September 29 of  2006,0
-Green Book ,Universal Pictures,November 16 of  2018,0
-The Expendables 2 ,Lionsgate,August 15 of  2012,0
-Paranormal Activity 2 ,Paramount Pictures,October 20 of  2010,0
-Tammy ,Warner Bros.,July 2 of  2014,0
-Ferdinand ,Twentieth Century Fox,December 13 of  2017,0
-Crazy Stupid Love. ,Warner Bros.,July 28 of  2011,0
-Annabelle ,Warner Bros.,September 23 of  2014,0
-Birds of Prey ,Warner Bros.,February 5 of  2020,0
-Atlantis: The Lost Empire ,Walt Disney Studios Motion Pictures,June 8 of  2001,0
-Cliffhanger ,TriStar Pictures,May 28 of  1993,0
-The Other Woman ,Twentieth Century Fox,April 17 of  2014,0
-Penguins of Madagascar ,Twentieth Century Fox,November 14 of  2014,0
-Die Hard ,Twentieth Century Fox,July 15 of  1988,0
-Up in the Air ,Paramount Pictures,December 4 of  2009,0
-Wrath of the Titans ,Warner Bros.,March 28 of  2012,0
-Insidious: Chapter 2 ,FilmDistrict,September 13 of  2013,0
-Battle Los Angeles ,Sony Pictures Entertainment (SPE),March 9 of  2011,0
-Immortals ,Relativity Media,November 10 of  2011,0
-I Can Only Imagine ,Roadside Attractions,March 15 of  2018,0
-Patriot Games ,Paramount Pictures,June 5 of  1992,0
-Saving Mr. Banks ,Walt Disney Studios Motion Pictures,November 29 of  2013,0
-Good Boys ,Universal Pictures,August 14 of  2019,0
-Valkyrie ,United Artists,December 25 of  2008,0
-Brokeback Mountain ,Focus Features,December 9 of  2005,0
-Turbo ,Twentieth Century Fox,July 10 of  2013,0
-Disclosure ,Warner Bros.,December 9 of  1994,0
-Charlotte's Web ,Paramount Pictures,December 7 of  2006,0
-Monster-in-Law ,New Line Cinema,May 13 of  2005,0
-Are We There Yet? ,Revolution Studios,January 21 of  2005,0
-Freddy vs. Jason ,New Line Cinema,August 14 of  2003,0
-Star Trek: The Motion Picture ,Paramount Pictures,December 7 of  1979,0
-Bram Stoker's Dracula ,Columbia Pictures,November 13 of  1992,0
-Let's Be Cops ,Twentieth Century Fox,August 13 of  2014,0
-Blade II ,New Line Cinema,March 22 of  2002,0
-Beowulf ,Paramount Pictures,November 14 of  2007,0
-The Pink Panther ,Sony Pictures Entertainment (SPE),February 9 of  2006,0
-Teenage Mutant Ninja Turtles: Out of the Shadows ,Paramount Pictures,June 2 of  2016,0
-The Post ,Twentieth Century Fox,December 22 of  2017,0
-Alien ,Twentieth Century Fox,May 25 of  1979,0
-Maze Runner: The Scorch Trials ,Twentieth Century Fox,September 9 of  2015,0
-Eight Below ,Walt Disney Studios Motion Pictures,February 17 of  2006,0
-Unstoppable ,Twentieth Century Fox,November 10 of  2010,0
-Payback ,Paramount Pictures,February 5 of  1999,0
-Ted 2 ,Universal Pictures,June 19 of  2015,0
-The Talented Mr. Ripley ,Paramount Pictures,December 25 of  1999,0
-School of Rock ,Paramount Pictures,October 3 of  2003,0
-Snow Dogs ,Walt Disney Studios Motion Pictures,January 18 of  2002,0
-21 ,Sony Pictures Entertainment (SPE),March 28 of  2008,0
-While You Were Sleeping ,Walt Disney Studios Motion Pictures,April 21 of  1995,0
-The Notebook ,New Line Cinema,June 25 of  2004,0
-Jimmy Neutron: Boy Genius ,Paramount Pictures,December 21 of  2001,0
-Eat Pray Love ,Sony Pictures Entertainment (SPE),August 13 of  2010,0
-The Texas Chainsaw Massacre ,New Line Cinema,October 17 of  2003,0
-Zookeeper ,Sony Pictures Entertainment (SPE),July 6 of  2011,0
+Star Wars: Episode VII - The Force Awakens ,Walt Disney Studios Motion Pictures,December 16 of  2015,6,null
+Avengers: Endgame ,Walt Disney Studios Motion Pictures,April 24 of  2019,0,null
+Avatar ,Twentieth Century Fox,December 16 of  2009,2,null
+Titanic ,Paramount Pictures,December 19 of  1997,0,null
+Jurassic World ,Universal Pictures,June 10 of  2015,0,null
+The Avengers ,Walt Disney Studios Motion Pictures,April 25 of  2012,0,null
+Star Wars: Episode VIII - The Last Jedi ,Walt Disney Studios Motion Pictures,December 13 of  2017,0,null
+The Lion King ,Walt Disney Studios Motion Pictures,July 11 of  2019,0,null
+The Dark Knight ,Warner Bros.,July 16 of  2008,0,null
+Rogue One: A Star Wars Story ,Walt Disney Studios Motion Pictures,December 14 of  2016,0,null
+Star Wars: Episode IX - The Rise of Skywalker ,Walt Disney Studios Motion Pictures,December 18 of  2019,0,null
+Beauty and the Beast ,Walt Disney Studios Motion Pictures,March 16 of  2017,0,null
+Frozen II ,Walt Disney Studios Motion Pictures,November 20 of  2019,0,null
+Star Wars: Episode I - The Phantom Menace ,Twentieth Century Fox,May 19 of  1999,0,null
+Star Wars: Episode IV - A New Hope ,Twentieth Century Fox,May 25 of  1977,0,null
+Avengers: Age of Ultron ,Walt Disney Studios Motion Pictures,April 22 of  2015,0,null
+The Dark Knight Rises ,Warner Bros.,July 19 of  2012,0,null
+Shrek 2 ,DreamWorks Distribution,May 19 of  2004,0,null
+E.T. the Extra-Terrestrial ,Universal Pictures,June 11 of  1982,0,null
+Toy Story 4 ,Walt Disney Studios Motion Pictures,June 20 of  2019,0,null
+Captain Marvel ,Walt Disney Studios Motion Pictures,March 6 of  2019,0,null
+The Hunger Games: Catching Fire ,Lionsgate,November 15 of  2013,0,null
+Pirates of the Caribbean: Dead Man's Chest ,Walt Disney Studios Motion Pictures,July 6 of  2006,0,null
+The Lion King ,Walt Disney Studios Motion Pictures,June 15 of  1994,0,null
+Jurassic World: Fallen Kingdom ,Universal Pictures,June 6 of  2018,0,null
+Toy Story 3 ,Walt Disney Studios Motion Pictures,June 16 of  2010,0,null
+Wonder Woman ,Warner Bros.,May 30 of  2017,0,null
+Iron Man 3 ,Walt Disney Studios Motion Pictures,April 24 of  2013,0,null
+Captain America: Civil War ,Walt Disney Studios Motion Pictures,April 27 of  2016,0,null
+The Hunger Games ,Lionsgate,March 8 of  2012,0,null
+Spider-Man ,Sony Pictures Entertainment (SPE),May 3 of  2002,0,null
+Jumanji: Welcome to the Jungle ,Sony Pictures Entertainment (SPE),December 20 of  2017,0,null
+Jurassic Park ,Universal Pictures,June 11 of  1993,0,null
+Transformers: Revenge of the Fallen ,DreamWorks,June 19 of  2009,0,null
+Frozen ,Walt Disney Studios Motion Pictures,November 22 of  2013,0,null
+Spider-Man: Far from Home ,Sony Pictures Entertainment (SPE),June 28 of  2019,0,null
+Guardians of the Galaxy Vol. 2 ,Walt Disney Studios Motion Pictures,April 25 of  2017,0,null
+Finding Nemo ,Walt Disney Studios Motion Pictures,May 30 of  2003,0,null
+Star Wars: Episode III - Revenge of the Sith ,Twentieth Century Fox,May 18 of  2005,0,null
+The Lord of the Rings: The Return of the King ,New Line Cinema,December 17 of  2003,0,null
+Spider-Man 2 ,Sony Pictures Entertainment (SPE),June 30 of  2004,0,null
+The Passion of the Christ ,Newmarket Films,February 25 of  2004,0,null
+The Secret Life of Pets ,Universal Pictures,June 24 of  2016,0,null
+Despicable Me 2 ,Universal Pictures,June 20 of  2013,0,null
+The Jungle Book ,Walt Disney Studios Motion Pictures,April 7 of  2016,0,null
+Deadpool ,Twentieth Century Fox,February 9 of  2016,0,null
+Inside Out ,Walt Disney Studios Motion Pictures,June 10 of  2015,0,null
+Aladdin ,Walt Disney Studios Motion Pictures,May 22 of  2019,0,null
+Furious 7 ,Universal Pictures,April 1 of  2015,0,null
+Transformers: Dark of the Moon ,DreamWorks,June 29 of  2011,0,null
+American Sniper ,Warner Bros.,December 25 of  2014,0,null
+The Lord of the Rings: The Two Towers ,New Line Cinema,December 18 of  2002,0,null
+The Hunger Games: Mockingjay - Part 1 ,Lionsgate,November 19 of  2014,0,null
+Spider-Man 3 ,Sony Pictures Entertainment (SPE),May 1 of  2007,0,null
+Minions ,Universal Pictures,April 9 of  2015,0,null
+Joker ,Warner Bros.,October 2 of  2019,0,null
+Spider-Man: Homecoming ,Sony Pictures Entertainment (SPE),July 5 of  2017,0,null
+Alice in Wonderland ,Walt Disney Studios Motion Pictures,March 3 of  2010,0,null
+Guardians of the Galaxy ,Walt Disney Studios Motion Pictures,July 30 of  2014,0,null
+Forrest Gump ,Paramount Pictures,July 6 of  1994,0,null
+Batman v Superman: Dawn of Justice ,Warner Bros.,March 23 of  2016,0,null
+It ,Warner Bros.,September 6 of  2017,0,null
+Suicide Squad ,Warner Bros.,August 3 of  2016,0,null
+Deadpool 2 ,Twentieth Century Fox,May 16 of  2018,0,null
+Shrek the Third ,DreamWorks,May 17 of  2007,0,null
+Jumanji: The Next Level ,Sony Pictures Entertainment (SPE),December 4 of  2019,0,null
+Transformers ,DreamWorks,June 28 of  2007,0,null
+Iron Man ,Paramount Pictures,April 30 of  2008,0,null
+Harry Potter and the Sorcerer's Stone ,Warner Bros.,November 16 of  2001,0,null
+Indiana Jones and the Kingdom of the Crystal Skull ,Paramount Pictures,May 21 of  2008,0,null
+The Lord of the Rings: The Fellowship of the Ring ,New Line Cinema,December 19 of  2001,0,null
+Thor: Ragnarok ,Walt Disney Studios Motion Pictures,October 24 of  2017,0,null
+Iron Man 2 ,Paramount Pictures,April 28 of  2010,0,null
+Star Wars: Episode II - Attack of the Clones ,Twentieth Century Fox,May 16 of  2002,0,null
+Pirates of the Caribbean: At World's End ,Walt Disney Studios Motion Pictures,May 22 of  2007,0,null
+Star Wars: Episode VI - Return of the Jedi ,Twentieth Century Fox,May 25 of  1983,0,null
+Independence Day ,Twentieth Century Fox,July 3 of  1996,0,null
+Pirates of the Caribbean: The Curse of the Black Pearl ,Walt Disney Studios Motion Pictures,July 9 of  2003,0,null
+Skyfall ,Sony Pictures Entertainment (SPE),October 25 of  2012,0,null
+Harry Potter and the Half-Blood Prince ,Warner Bros.,July 15 of  2009,0,null
+The Twilight Saga: Eclipse ,Summit Entertainment,June 30 of  2010,0,null
+The Twilight Saga: New Moon ,Summit Entertainment,November 18 of  2009,0,null
+The Sixth Sense ,Walt Disney Studios Motion Pictures,August 6 of  1999,0,null
+Up ,Walt Disney Studios Motion Pictures,May 28 of  2009,0,null
+Star Wars: Episode V - The Empire Strikes Back ,Twentieth Century Fox,May 21 of  1980,0,null
+Inception ,Warner Bros.,July 15 of  2010,0,null
+Harry Potter and the Order of the Phoenix ,Warner Bros.,July 11 of  2007,0,null
+The Twilight Saga: Breaking Dawn - Part 2 ,Lionsgate,November 14 of  2012,0,null
+The Chronicles of Narnia: The Lion the Witch and the Wardrobe ,Walt Disney Studios Motion Pictures,December 7 of  2005,0,null
+Man of Steel ,Warner Bros.,June 12 of  2013,0,null
+Monsters Inc. ,Walt Disney Studios Motion Pictures,November 2 of  2001,0,null
+Harry Potter and the Goblet of Fire ,Warner Bros.,November 16 of  2005,0,null
+Home Alone ,Twentieth Century Fox,November 16 of  1990,0,null
+The Hunger Games: Mockingjay - Part 2 ,Lionsgate,November 18 of  2015,0,null
+The Matrix Reloaded ,Warner Bros.,May 15 of  2003,0,null
+The Twilight Saga: Breaking Dawn - Part 1 ,Summit Entertainment,November 16 of  2011,0,null
+Meet the Fockers ,Universal Pictures,December 22 of  2004,0,null
+The Hangover ,Warner Bros.,June 5 of  2009,0,null
+Gravity ,Warner Bros.,October 3 of  2013,0,null
+The Grinch ,Universal Pictures,November 7 of  2018,0,null
+Sing ,Universal Pictures,December 2 of  2016,0,null
+Shrek ,DreamWorks Distribution,May 16 of  2001,0,null
+Despicable Me 3 ,Universal Pictures,June 14 of  2017,0,null
+Harry Potter and the Chamber of Secrets ,Warner Bros.,November 14 of  2002,0,null
+The Amazing Spider-Man ,Sony Pictures Entertainment (SPE),June 28 of  2012,0,null
+The Incredibles ,Walt Disney Studios Motion Pictures,November 5 of  2004,0,null
+Jaws ,Universal Pictures,June 20 of  1975,0,null
+How the Grinch Stole Christmas ,Universal Pictures,November 17 of  2000,0,null
+Captain America: The Winter Soldier ,Walt Disney Studios Motion Pictures,March 26 of  2014,0,null
+The Lego Movie ,Warner Bros.,February 6 of  2014,0,null
+Star Trek ,Paramount Pictures,May 6 of  2009,0,null
+I Am Legend ,Warner Bros.,December 12 of  2007,0,null
+The Blind Side ,Warner Bros.,November 20 of  2009,0,null
+The Hangover Part II ,Warner Bros.,May 25 of  2011,0,null
+Despicable Me ,Universal Pictures,July 8 of  2010,0,null
+Batman ,Warner Bros.,June 23 of  1989,0,null
+Men in Black ,Sony Pictures Entertainment (SPE),July 2 of  1997,0,null
+Harry Potter and the Prisoner of Azkaban ,Warner Bros.,May 31 of  2004,0,null
+Indiana Jones and the Raiders of the Lost Ark ,Paramount Pictures,June 12 of  1981,0,null
+Toy Story 2 ,Walt Disney Studios Motion Pictures,November 19 of  1999,0,null
+Transformers: Age of Extinction ,Paramount Pictures,June 25 of  2014,0,null
+Cars ,Walt Disney Studios Motion Pictures,June 8 of  2006,0,null
+Ghostbusters ,Columbia Pictures,June 8 of  1984,0,null
+Bruce Almighty ,Universal Pictures,May 23 of  2003,0,null
+Twister ,Warner Bros.,May 10 of  1996,0,null
+My Big Fat Greek Wedding ,IFC Films,April 19 of  2002,0,null
+Maleficent ,Walt Disney Studios Motion Pictures,May 28 of  2014,0,null
+Pirates of the Caribbean: On Stranger Tides ,Walt Disney Studios Motion Pictures,May 18 of  2011,0,null
+Shrek Forever After ,DreamWorks,May 20 of  2010,0,null
+Fast & Furious 6 ,Universal Pictures,May 17 of  2013,0,null
+Brave ,Walt Disney Studios Motion Pictures,June 21 of  2012,0,null
+Oz the Great and Powerful ,Walt Disney Studios Motion Pictures,March 6 of  2013,0,null
+X-Men: The Last Stand ,Twentieth Century Fox,May 24 of  2006,0,null
+War of the Worlds ,Paramount Pictures,June 29 of  2005,0,null
+Fantastic Beasts and Where to Find Them ,Warner Bros.,November 16 of  2016,0,null
+X-Men: Days of Future Past ,Twentieth Century Fox,May 21 of  2014,0,null
+Cast Away ,Twentieth Century Fox,December 22 of  2000,0,null
+Doctor Strange ,Walt Disney Studios Motion Pictures,October 25 of  2016,0,null
+The Lost World: Jurassic Park ,Universal Pictures,May 23 of  1997,0,null
+Star Trek Into Darkness ,Paramount Pictures,May 8 of  2013,0,null
+The Martian ,Twentieth Century Fox,September 30 of  2015,0,null
+Signs ,Walt Disney Studios Motion Pictures,August 2 of  2002,0,null
+Hancock ,Sony Pictures Entertainment (SPE),July 2 of  2008,0,null
+The Bourne Ultimatum ,Universal Pictures,August 3 of  2007,0,null
+Logan ,Twentieth Century Fox,March 1 of  2017,0,null
+Rush Hour 2 ,New Line Cinema,August 3 of  2001,0,null
+The Fate of the Furious ,Universal Pictures,April 12 of  2017,0,null
+WALL·E ,Walt Disney Studios Motion Pictures,June 26 of  2008,0,null
+Big Hero 6 ,Walt Disney Studios Motion Pictures,October 25 of  2014,0,null
+Mission: Impossible - Fallout ,Paramount Pictures,July 25 of  2018,0,null
+Alvin and the Chipmunks: The Squeakquel ,Twentieth Century Fox,December 21 of  2009,0,null
+Mrs. Doubtfire ,Twentieth Century Fox,November 24 of  1993,0,null
+Beauty and the Beast ,Walt Disney Studios Motion Pictures,November 15 of  1991,0,null
+Ted ,Universal Pictures,June 29 of  2012,0,null
+King Kong ,Universal Pictures,December 14 of  2005,0,null
+Ghost ,Paramount Pictures,July 13 of  1990,0,null
+How to Train Your Dragon ,DreamWorks,March 18 of  2010,0,null
+The Da Vinci Code ,Sony Pictures Entertainment (SPE),May 17 of  2006,0,null
+Aladdin ,Walt Disney Studios Motion Pictures,November 13 of  1992,0,null
+Alvin and the Chipmunks ,Twentieth Century Fox,December 12 of  2007,0,null
+Saving Private Ryan ,DreamWorks Distribution,July 24 of  1998,0,null
+Bohemian Rhapsody ,Twentieth Century Fox,October 26 of  2018,0,null
+Madagascar 3: Europe's Most Wanted ,DreamWorks,June 6 of  2012,0,null
+Kung Fu Panda ,DreamWorks,June 5 of  2008,0,null
+Mission: Impossible II ,Paramount Pictures,May 24 of  2000,0,null
+A Star Is Born ,Warner Bros.,October 3 of  2018,0,null
+X2: X-Men United ,Twentieth Century Fox,April 30 of  2003,0,null
+The Lorax ,Universal Pictures,March 1 of  2012,0,null
+Solo: A Star Wars Story ,Walt Disney Studios Motion Pictures,May 23 of  2018,0,null
+Venom ,Sony Pictures Entertainment (SPE),October 3 of  2018,0,null
+Austin Powers in Goldmember ,New Line Cinema,July 26 of  2002,0,null
+It Chapter Two ,Warner Bros.,September 4 of  2019,0,null
+Back to the Future ,Universal Pictures,July 3 of  1985,0,null
+300 ,Warner Bros.,March 7 of  2007,0,null
+Fast Five ,Universal Pictures,April 20 of  2011,0,null
+Mission: Impossible - Ghost Protocol ,Paramount Pictures,December 14 of  2011,0,null
+Wedding Crashers ,New Line Cinema,July 14 of  2005,0,null
+Sherlock Holmes ,Warner Bros.,January 1 of  2009,0,null
+Dawn of the Planet of the Apes ,Twentieth Century Fox,July 9 of  2014,0,null
+Batman Begins ,Warner Bros.,June 15 of  2005,0,null
+Charlie and the Chocolate Factory ,Warner Bros.,July 14 of  2005,0,null
+Ratatouille ,Walt Disney Studios Motion Pictures,June 28 of  2007,0,null
+Thor: The Dark World ,Walt Disney Studios Motion Pictures,October 30 of  2013,0,null
+Bad Boys for Life ,Sony Pictures Entertainment (SPE),January 15 of  2020,0,null
+Austin Powers: The Spy Who Shagged Me ,New Line Cinema,June 11 of  1999,0,null
+Terminator 2: Judgment Day ,TriStar Pictures,July 3 of  1991,0,null
+World War Z ,Paramount Pictures,June 19 of  2013,0,null
+The Mummy Returns ,Universal Pictures,May 4 of  2001,0,null
+Armageddon ,Walt Disney Studios Motion Pictures,July 1 of  1998,0,null
+Cinderella ,Walt Disney Studios Motion Pictures,March 11 of  2015,0,null
+Ralph Breaks the Internet ,Walt Disney Studios Motion Pictures,November 21 of  2018,0,null
+Tangled ,Walt Disney Studios Motion Pictures,November 24 of  2010,0,null
+Godzilla ,Warner Bros.,May 14 of  2014,0,null
+Superman Returns ,Warner Bros.,June 28 of  2006,0,null
+Spectre ,Sony Pictures Entertainment (SPE),October 26 of  2015,0,null
+Pearl Harbor ,Walt Disney Studios Motion Pictures,May 25 of  2001,0,null
+Monsters vs. Aliens ,DreamWorks,March 19 of  2009,0,null
+Happy Feet ,Warner Bros.,November 17 of  2006,0,null
+Indiana Jones and the Last Crusade ,Paramount Pictures,May 24 of  1989,0,null
+Ice Age: Dawn of the Dinosaurs ,Twentieth Century Fox,June 29 of  2009,0,null
+Ice Age: The Meltdown ,Twentieth Century Fox,March 29 of  2006,0,null
+Mission: Impossible - Rogue Nation ,Paramount Pictures,July 24 of  2015,0,null
+Twilight ,Summit Entertainment,November 20 of  2008,0,null
+Men in Black II ,Sony Pictures Entertainment (SPE),July 3 of  2002,0,null
+22 Jump Street ,Sony Pictures Entertainment (SPE),June 5 of  2014,0,null
+Cars 2 ,Walt Disney Studios Motion Pictures,June 22 of  2011,0,null
+Teenage Mutant Ninja Turtles ,Paramount Pictures,August 7 of  2014,0,null
+Spider-Man: Into the Spider-Verse ,Sony Pictures Entertainment (SPE),December 12 of  2018,0,null
+Grease ,Paramount Pictures,June 16 of  1978,0,null
+Dunkirk ,Warner Bros.,July 19 of  2017,0,null
+Wreck-It Ralph ,Walt Disney Studios Motion Pictures,November 1 of  2012,0,null
+A Quiet Place ,Paramount Pictures,April 4 of  2018,0,null
+Interstellar ,Paramount Pictures,November 5 of  2014,0,null
+The Polar Express ,Warner Bros.,November 10 of  2004,0,null
+Gladiator ,DreamWorks Distribution,May 4 of  2000,0,null
+The Croods ,Twentieth Century Fox,March 15 of  2013,0,null
+The Day After Tomorrow ,Twentieth Century Fox,May 26 of  2004,0,null
+Mr. & Mrs. Smith ,Twentieth Century Fox,June 8 of  2005,0,null
+Pitch Perfect 2 ,Universal Pictures,May 7 of  2015,0,null
+Dances with Wolves ,Orion Pictures,November 9 of  1990,0,null
+Batman Forever ,Warner Bros.,June 16 of  1995,0,null
+The Revenant ,Twentieth Century Fox,December 25 of  2015,0,null
+Ocean's Eleven ,Warner Bros.,December 7 of  2001,0,null
+The Simpsons Movie ,Twentieth Century Fox,July 25 of  2007,0,null
+What Women Want ,Paramount Pictures,December 15 of  2000,0,null
+The Perfect Storm ,Warner Bros.,June 30 of  2000,0,null
+Lincoln ,Walt Disney Studios Motion Pictures,November 9 of  2012,0,null
+Jurassic Park III ,Universal Pictures,July 5 of  2001,0,null
+Thor ,Paramount Pictures,April 21 of  2011,0,null
+Mission: Impossible ,Paramount Pictures,May 22 of  1996,0,null
+Ant-Man ,Walt Disney Studios Motion Pictures,July 10 of  2015,0,null
+Planet of the Apes ,Twentieth Century Fox,July 27 of  2001,0,null
+Madagascar: Escape 2 Africa ,DreamWorks,October 30 of  2008,0,null
+X-Men Origins: Wolverine ,Twentieth Century Fox,April 29 of  2009,0,null
+Indiana Jones and the Temple of Doom ,Paramount Pictures,May 23 of  1984,0,null
+Hitch ,Sony Pictures Entertainment (SPE),February 11 of  2005,0,null
+Men in Black 3 ,Sony Pictures Entertainment (SPE),May 23 of  2012,0,null
+Pretty Woman ,Walt Disney Studios Motion Pictures,March 23 of  1990,0,null
+Home ,Twentieth Century Fox,March 19 of  2015,0,null
+Night at the Museum: Battle of the Smithsonian ,Twentieth Century Fox,May 20 of  2009,0,null
+Tootsie ,Columbia Pictures,December 17 of  1982,0,null
+How to Train Your Dragon 2 ,Twentieth Century Fox,June 5 of  2014,0,null
+Rise of the Planet of the Apes ,Twentieth Century Fox,August 3 of  2011,0,null
+Captain America: The First Avenger ,Paramount Pictures,July 22 of  2011,0,null
+Elf ,New Line Cinema,November 7 of  2003,0,null
+The Karate Kid ,Sony Pictures Entertainment (SPE),June 10 of  2010,0,null
+There's Something About Mary ,Twentieth Century Fox,July 15 of  1998,0,null
+Ice Age ,Twentieth Century Fox,March 14 of  2002,0,null
+The Bourne Supremacy ,Universal Pictures,July 23 of  2004,0,null
+The Lego Batman Movie ,Warner Bros.,February 2 of  2017,0,null
+Us ,Universal Pictures,March 20 of  2019,0,null
+Crazy Rich Asians ,Warner Bros.,August 15 of  2018,0,null
+The Greatest Showman ,Twentieth Century Fox,December 20 of  2017,0,null
+Fast & Furious Presents: Hobbs & Shaw ,Universal Pictures,July 1 of  2019,0,null
+National Treasure ,Walt Disney Studios Motion Pictures,November 19 of  2004,0,null
+Air Force One ,Sony Pictures Entertainment (SPE),July 25 of  1997,0,null
+Rain Man ,Metro-Goldwyn-Mayer (MGM),December 16 of  1988,0,null
+Pirates of the Caribbean: Dead Men Tell No Tales ,Walt Disney Studios Motion Pictures,May 24 of  2017,0,null
+TRON: Legacy ,Walt Disney Studios Motion Pictures,December 16 of  2010,0,null
+Mary Poppins Returns ,Walt Disney Studios Motion Pictures,December 19 of  2018,0,null
+The Matrix ,Warner Bros.,March 31 of  1999,0,null
+True Grit ,Paramount Pictures,December 22 of  2010,0,null
+Tarzan ,Walt Disney Studios Motion Pictures,June 16 of  1999,0,null
+John Wick: Chapter 3 - Parabellum ,Lionsgate,May 15 of  2019,0,null
+A Beautiful Mind ,Universal Pictures,December 21 of  2001,0,null
+Chicago ,Miramax,February 26 of  2002,0,null
+The Help ,Walt Disney Studios Motion Pictures,August 10 of  2011,0,null
+Hotel Transylvania 2 ,Sony Pictures Entertainment (SPE),September 21 of  2015,0,null
+Hidden Figures ,Twentieth Century Fox,December 25 of  2016,0,null
+Bridesmaids ,Universal Pictures,May 12 of  2011,0,null
+Quantum of Solace ,Sony Pictures Entertainment (SPE),October 31 of  2008,0,null
+Kong: Skull Island ,Warner Bros.,March 8 of  2017,0,null
+Three Men and a Baby ,Walt Disney Studios Motion Pictures,November 25 of  1987,0,null
+Gone Girl ,Twentieth Century Fox,October 2 of  2014,0,null
+Hotel Transylvania 3: Summer Vacation ,Sony Pictures Entertainment (SPE),June 28 of  2018,0,null
+Casino Royale ,Sony Pictures Entertainment (SPE),November 15 of  2006,0,null
+Meet the Parents ,Universal Pictures,October 6 of  2000,0,null
+Fifty Shades of Grey ,Universal Pictures,February 11 of  2015,0,null
+2012 ,Sony Pictures Entertainment (SPE),November 11 of  2009,0,null
+Robin Hood: Prince of Thieves ,Warner Bros.,June 14 of  1991,0,null
+Knives Out ,Lionsgate,November 21 of  2019,0,null
+Kung Fu Panda 2 ,DreamWorks,May 26 of  2011,0,null
+Hannibal ,Metro-Goldwyn-Mayer (MGM),February 9 of  2001,0,null
+Catch Me If You Can ,DreamWorks Distribution,December 25 of  2002,0,null
+The Proposal ,Walt Disney Studios Motion Pictures,June 17 of  2009,0,null
+The Pursuit of Happyness ,Sony Pictures Entertainment (SPE),December 15 of  2006,0,null
+Big Daddy ,Sony Pictures Entertainment (SPE),June 25 of  1999,0,null
+Clash of the Titans ,Warner Bros.,March 31 of  2010,0,null
+The SpongeBob Movie: Sponge Out of Water ,Paramount Pictures,January 28 of  2015,0,null
+Batman Returns ,Warner Bros.,June 19 of  1992,0,null
+Django Unchained ,The Weinstein Company,December 25 of  2012,0,null
+A Bug's Life ,Walt Disney Studios Motion Pictures,November 20 of  1998,0,null
+Jason Bourne ,Universal Pictures,July 27 of  2016,0,null
+Grown Ups ,Sony Pictures Entertainment (SPE),June 24 of  2010,0,null
+The Waterboy ,Walt Disney Studios Motion Pictures,November 6 of  1998,0,null
+Ice Age: Continental Drift ,Twentieth Century Fox,June 27 of  2012,0,null
+Straight Outta Compton ,Universal Pictures,August 14 of  2015,0,null
+Die Another Day ,Metro-Goldwyn-Mayer (MGM),November 20 of  2002,0,null
+Shark Tale ,DreamWorks Distribution,September 23 of  2004,0,null
+How to Train Your Dragon: The Hidden World ,Universal Pictures,January 3 of  2019,0,null
+The Heat ,Twentieth Century Fox,February 22 of  1996,0,null
+Fantastic Beasts: The Crimes of Grindelwald ,Warner Bros.,October 12 of  2018,0,null
+Halloween ,Universal Pictures,October 17 of  2018,0,null
+1917 ,Universal Pictures,December 25 of  2019,0,null
+The Secret Life of Pets 2 ,Universal Pictures,May 24 of  2019,0,null
+Star Trek Beyond ,Paramount Pictures,July 20 of  2016,0,null
+The Longest Yard ,Paramount Pictures,May 27 of  2005,0,null
+X-Men ,Twentieth Century Fox,July 13 of  2000,0,null
+Scary Movie ,Miramax,July 7 of  2000,0,null
+Who Framed Roger Rabbit ,Walt Disney Studios Motion Pictures,June 24 of  1988,0,null
+What Lies Beneath ,DreamWorks Distribution,July 21 of  2000,0,null
+X-Men: Apocalypse ,Twentieth Century Fox,May 18 of  2016,0,null
+The Mummy ,Universal Pictures,May 7 of  1999,0,null
+Snow White and the Huntsman ,Universal Pictures,May 30 of  2012,0,null
+San Andreas ,Warner Bros.,May 22 of  2015,0,null
+Fast & Furious ,Universal Pictures,April 2 of  2009,0,null
+Fantastic Four ,Twentieth Century Fox,July 6 of  2005,0,null
+Horton Hears a Who! ,Twentieth Century Fox,March 12 of  2008,0,null
+Mad Max: Fury Road ,Warner Bros.,May 7 of  2015,0,null
+Jerry Maguire ,Sony Pictures Entertainment (SPE),December 13 of  1996,0,null
+Trolls ,Twentieth Century Fox,October 13 of  2016,0,null
+Scooby-Doo ,Warner Bros.,June 14 of  2002,0,null
+Sex and the City ,Warner Bros.,May 28 of  2008,0,null
+Runaway Bride ,Paramount Pictures,July 30 of  1999,0,null
+La La Land ,Lionsgate,December 7 of  2016,0,null
+Divergent ,Lionsgate,March 20 of  2014,0,null
+We're the Millers ,Warner Bros.,August 29 of  2012,0,null
+Terminator 3: Rise of the Machines ,Warner Bros.,July 2 of  2003,0,null
+G.I. Joe: The Rise of Cobra ,Paramount Pictures,August 5 of  2009,0,null
+Neighbors ,Universal Pictures,May 8 of  2014,0,null
+American Hustle ,Sony Pictures Entertainment (SPE),December 12 of  2013,0,null
+Puss in Boots ,DreamWorks,October 27 of  2011,0,null
+Sonic the Hedgehog ,Paramount Pictures,February 12 of  2020,0,null
+Les Misérables ,Universal Pictures,December 19 of  2012,0,null
+Knocked Up ,Universal Pictures,June 1 of  2007,0,null
+As Good as It Gets ,Sony Pictures Entertainment (SPE),December 23 of  1997,0,null
+Little Fockers ,Universal Pictures,December 22 of  2010,0,null
+Megamind ,DreamWorks,October 28 of  2010,0,null
+Hotel Transylvania ,Sony Pictures Entertainment (SPE),September 20 of  2012,0,null
+Talladega Nights: The Ballad of Ricky Bobby ,Sony Pictures Entertainment (SPE),August 4 of  2006,0,null
+Gran Torino ,Warner Bros.,December 12 of  2008,0,null
+War for the Planet of the Apes ,Twentieth Century Fox,July 11 of  2017,0,null
+X-Men: First Class ,Twentieth Century Fox,June 1 of  2011,0,null
+Paul Blart: Mall Cop ,Sony Pictures Entertainment (SPE),January 16 of  2009,0,null
+True Lies ,Twentieth Century Fox,July 15 of  1994,0,null
+Lilo & Stitch ,Walt Disney Studios Motion Pictures,June 21 of  2002,0,null
+The Santa Clause ,Walt Disney Studios Motion Pictures,November 11 of  1994,0,null
+The Meg ,Warner Bros.,August 8 of  2018,0,null
+American Pie 2 ,Universal Pictures,August 10 of  2001,0,null
+Taken ,Twentieth Century Fox,February 27 of  2008,0,null
+The Great Gatsby ,Warner Bros.,May 10 of  2013,0,null
+I Robot ,Twentieth Century Fox,July 15 of  2004,0,null
+Lethal Weapon 3 ,Warner Bros.,May 15 of  1992,0,null
+The Fast and the Furious ,Universal Pictures,June 22 of  2001,0,null
+Mamma Mia! ,Universal Pictures,June 27 of  2008,0,null
+Pokémon Detective Pikachu ,Warner Bros.,May 3 of  2019,0,null
+Rio ,Twentieth Century Fox,April 4 of  2011,0,null
+Kung Fu Panda 3 ,Twentieth Century Fox,January 28 of  2016,0,null
+Juno ,Fox Searchlight Pictures,December 5 of  2007,0,null
+The Smurfs ,Sony Pictures Entertainment (SPE),July 27 of  2011,0,null
+Once Upon a Time... In Hollywood ,Sony Pictures Entertainment (SPE),July 25 of  2019,0,null
+xXx ,Revolution Studios,August 9 of  2002,0,null
+The Chronicles of Narnia: Prince Caspian ,Walt Disney Studios Motion Pictures,May 15 of  2008,0,null
+A Few Good Men ,Columbia Pictures,December 11 of  1992,0,null
+Slumdog Millionaire ,Fox Searchlight Pictures,November 12 of  2008,0,null
+Rush Hour ,New Line Cinema,September 18 of  1998,0,null
+The Blair Witch Project ,Artisan Entertainment,July 16 of  1999,0,null
+Shazam! ,Warner Bros.,April 3 of  2019,0,null
+Ocean's Eight ,Warner Bros.,June 7 of  2018,0,null
+Rush Hour 3 ,New Line Cinema,August 8 of  2007,0,null
+Stuart Little ,Sony Pictures Entertainment (SPE),December 17 of  1999,0,null
+Taken 2 ,Twentieth Century Fox,September 27 of  2012,0,null
+The Matrix Revolutions ,Warner Bros.,November 5 of  2003,0,null
+The Santa Clause 2 ,Walt Disney Studios Motion Pictures,November 1 of  2002,0,null
+The King's Speech ,The Weinstein Company,November 26 of  2010,0,null
+Cheaper by the Dozen ,Twentieth Century Fox,December 25 of  2003,0,null
+Bad Boys II ,Sony Pictures Entertainment (SPE),July 18 of  2003,0,null
+Platoon ,Orion Pictures,December 19 of  1986,0,null
+21 Jump Street ,Sony Pictures Entertainment (SPE),March 15 of  2012,0,null
+Split ,Universal Pictures,January 18 of  2017,0,null
+A Christmas Carol ,Walt Disney Studios Motion Pictures,September 9 of  2009,0,null
+Dinosaur ,Walt Disney Studios Motion Pictures,May 19 of  2000,0,null
+Ready Player One ,Warner Bros.,March 28 of  2018,0,null
+The Conjuring ,Warner Bros.,July 18 of  2013,0,null
+Click ,Revolution Studios,June 22 of  2006,0,null
+The Green Mile ,Warner Bros.,December 10 of  1999,0,null
+Godzilla ,Sony Pictures Entertainment (SPE),May 20 of  1998,0,null
+Argo ,Warner Bros.,October 11 of  2012,0,null
+Anger Management ,Revolution Studios,April 11 of  2003,0,null
+Chicken Little ,Walt Disney Studios Motion Pictures,November 4 of  2005,0,null
+Teenage Mutant Ninja Turtles ,New Line Cinema,March 30 of  1990,0,null
+Patch Adams ,Universal Pictures,December 25 of  1998,0,null
+The Godfather ,Paramount Pictures,March 15 of  1972,0,null
+Ride Along ,Universal Pictures,January 17 of  2014,0,null
+The Incredible Hulk ,Universal Pictures,June 11 of  2008,0,null
+Live Free or Die Hard ,Twentieth Century Fox,June 26 of  2007,0,null
+Wanted ,Universal Pictures,June 26 of  2008,0,null
+Identity Thief ,Universal Pictures,February 7 of  2013,0,null
+Superman ,Warner Bros.,December 15 of  1978,0,null
+The Rock ,Walt Disney Studios Motion Pictures,June 7 of  1996,0,null
+Mission: Impossible III ,Paramount Pictures,May 3 of  2006,0,null
+Grown Ups 2 ,Sony Pictures Entertainment (SPE),July 11 of  2013,0,null
+Troy ,Warner Bros.,May 12 of  2004,0,null
+Angels & Demons ,Sony Pictures Entertainment (SPE),May 13 of  2009,0,null
+Alvin and the Chipmunks: Chipwrecked ,Twentieth Century Fox,December 14 of  2011,0,null
+Bringing Down the House ,Walt Disney Studios Motion Pictures,March 7 of  2003,0,null
+The Wolverine ,Twentieth Century Fox,July 24 of  2013,0,null
+The Departed ,Warner Bros.,October 5 of  2006,0,null
+Hulk ,Universal Pictures,June 19 of  2003,0,null
+Silver Linings Playbook ,The Weinstein Company,November 16 of  2012,0,null
+Minority Report ,Twentieth Century Fox,June 20 of  2002,0,null
+Fantastic 4: Rise of the Silver Surfer ,Twentieth Century Fox,June 13 of  2007,0,null
+The Last Airbender ,Paramount Pictures,July 1 of  2010,0,null
+Rio 2 ,Twentieth Century Fox,March 20 of  2014,0,null
+Lara Croft: Tomb Raider ,Paramount Pictures,June 15 of  2001,0,null
+The Silence of the Lambs ,Orion Pictures,February 14 of  1991,0,null
+The Flintstones ,Universal Pictures,May 27 of  1994,0,null
+Lethal Weapon 4 ,Warner Bros.,July 10 of  1998,0,null
+Get Smart ,Warner Bros.,June 19 of  2008,0,null
+The Divergent Series: Insurgent ,Lionsgate,March 18 of  2015,0,null
+The Peanuts Movie ,Twentieth Century Fox,October 29 of  2015,0,null
+Transformers: The Last Knight ,Paramount Pictures,June 21 of  2017,0,null
+American Gangster ,Universal Pictures,November 2 of  2007,0,null
+American Beauty ,DreamWorks Distribution,September 15 of  1999,0,null
+The Ring ,DreamWorks Distribution,October 18 of  2002,0,null
+The Nutty Professor ,Universal Pictures,June 28 of  1996,0,null
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,Twentieth Century Fox,February 23 of  2006,0,null
+Ghostbusters ,Sony Pictures Entertainment (SPE),July 11 of  2016,0,null
+Kingsman: The Secret Service ,Twentieth Century Fox,January 30 of  2015,0,null
+Robots ,Twentieth Century Fox,March 10 of  2005,0,null
+Crouching Tiger Hidden Dragon ,Sony Pictures Classics,December 8 of  2000,0,null
+Shutter Island ,Paramount Pictures,February 18 of  2010,0,null
+Into the Woods ,Walt Disney Studios Motion Pictures,December 24 of  2014,0,null
+Enchanted ,Walt Disney Studios Motion Pictures,November 21 of  2007,0,null
+The Curious Case of Benjamin Button ,Paramount Pictures,December 25 of  2008,0,null
+Central Intelligence ,Warner Bros.,June 15 of  2016,0,null
+Anchorman 2: The Legend Continues ,Paramount Pictures,December 18 of  2013,0,null
+Sweet Home Alabama ,Walt Disney Studios Motion Pictures,September 27 of  2002,0,null
+Bumblebee ,Paramount Pictures,December 19 of  2018,0,null
+Dumb and Dumber ,New Line Cinema,December 16 of  1994,0,null
+2 Fast 2 Furious ,Universal Pictures,June 5 of  2003,0,null
+My Best Friend's Wedding ,Sony Pictures Entertainment (SPE),June 20 of  1997,0,null
+Super 8 ,Paramount Pictures,June 9 of  2011,0,null
+The World Is Not Enough ,Metro-Goldwyn-Mayer (MGM),November 19 of  1999,0,null
+Sleepless in Seattle ,TriStar Pictures,June 25 of  1993,0,null
+Lucy ,Universal Pictures,July 25 of  2014,0,null
+The Legend of Tarzan ,Warner Bros.,June 29 of  2016,0,null
+Bee Movie ,DreamWorks,November 1 of  2007,0,null
+Prometheus ,Twentieth Century Fox,May 30 of  2012,0,null
+Safe House ,Universal Pictures,February 8 of  2012,0,null
+Mr. Deeds ,Sony Pictures Entertainment (SPE),June 28 of  2002,0,null
+Erin Brockovich ,Universal Pictures,March 17 of  2000,0,null
+Ocean's Twelve ,Warner Bros.,December 9 of  2004,0,null
+Terminator Salvation ,Warner Bros.,May 20 of  2009,0,null
+Charlie's Angels ,Sony Pictures Entertainment (SPE),November 3 of  2000,0,null
+Lone Survivor ,Universal Pictures,December 25 of  2013,0,null
+Sully ,Warner Bros.,September 8 of  2016,0,null
+The Vow ,Screen Gems,February 9 of  2012,0,null
+Life of Pi ,Twentieth Century Fox,November 21 of  2012,0,null
+The Fault in Our Stars ,Twentieth Century Fox,June 4 of  2014,0,null
+Cloudy with a Chance of Meatballs ,Sony Pictures Entertainment (SPE),September 16 of  2009,0,null
+The Devil Wears Prada ,Twentieth Century Fox,June 30 of  2006,0,null
+Something's Gotta Give ,Sony Pictures Entertainment (SPE),December 12 of  2003,0,null
+City Slickers ,Columbia Pictures,June 7 of  1991,0,null
+Rango ,Paramount Pictures,March 2 of  2011,0,null
+Nutty Professor II: The Klumps ,Universal Pictures,July 28 of  2000,0,null
+G.I. Joe: Retaliation ,Paramount Pictures,March 27 of  2013,0,null
+Clear and Present Danger ,Paramount Pictures,August 5 of  1994,0,null
+The Hunt for Red October ,Paramount Pictures,March 2 of  1990,0,null
+Wayne's World ,Paramount Pictures,February 14 of  1992,0,null
+The Bourne Identity ,Universal Pictures,June 14 of  2002,0,null
+Superbad ,Sony Pictures Entertainment (SPE),August 17 of  2007,0,null
+Speed ,Twentieth Century Fox,June 10 of  1994,0,null
+50 First Dates ,Sony Pictures Entertainment (SPE),February 13 of  2004,0,null
+Mamma Mia! Here We Go Again ,Universal Pictures,July 18 of  2018,0,null
+Inglourious Basterds ,The Weinstein Company,August 19 of  2009,0,null
+Seabiscuit ,Universal Pictures,July 25 of  2003,0,null
+Van Helsing ,Universal Pictures,May 5 of  2004,0,null
+Four Christmases ,Warner Bros.,November 26 of  2008,0,null
+I Now Pronounce You Chuck & Larry ,Universal Pictures,July 20 of  2007,0,null
+The Mask ,New Line Cinema,July 29 of  1994,0,null
+Cloudy with a Chance of Meatballs 2 ,Sony Pictures Entertainment (SPE),September 26 of  2013,0,null
+Hook ,TriStar Pictures,December 11 of  1991,0,null
+Walk the Line ,Twentieth Century Fox,February 2 of  2005,0,null
+G-Force ,Walt Disney Studios Motion Pictures,July 23 of  2009,0,null
+Total Recall ,Sony Pictures Entertainment (SPE),June 1 of  1990,0,null
+The Other Guys ,Sony Pictures Entertainment (SPE),August 6 of  2010,0,null
+Fahrenheit 9/11 ,Lionsgate,June 23 of  2004,0,null
+Back to the Future Part II ,Universal Pictures,November 22 of  1989,0,null
+The Sum of All Fears ,Paramount Pictures,May 31 of  2002,0,null
+The Break-Up ,Universal Pictures,June 2 of  2006,0,null
+A Series of Unfortunate Events ,Paramount Pictures,December 16 of  2004,0,null
+Blades of Glory ,DreamWorks,March 30 of  2007,0,null
+Salt ,Sony Pictures Entertainment (SPE),July 21 of  2010,0,null
+Basic Instinct ,TriStar Pictures,March 20 of  1992,0,null
+Now You See Me ,Lionsgate,May 29 of  2013,0,null
+Ford v Ferrari ,Twentieth Century Fox,November 13 of  2019,0,null
+Big Momma's House ,Twentieth Century Fox,June 2 of  2000,0,null
+Die Hard 2 ,Twentieth Century Fox,July 6 of  1990,0,null
+Horrible Bosses ,Warner Bros.,July 7 of  2011,0,null
+The Nun ,Warner Bros.,September 5 of  2018,0,null
+Jackass 3D ,Paramount Pictures,October 15 of  2010,0,null
+S.W.A.T. ,Sony Pictures Entertainment (SPE),August 8 of  2003,0,null
+The Wolf of Wall Street ,Paramount Pictures,December 25 of  2013,0,null
+8 Mile ,Universal Pictures,November 8 of  2002,0,null
+Double Jeopardy ,Paramount Pictures,September 24 of  1999,0,null
+Lee Daniels' The Butler ,The Weinstein Company,August 16 of  2013,0,null
+Green Lantern ,Warner Bros.,June 15 of  2011,0,null
+Notting Hill ,Universal Pictures,May 28 of  1999,0,null
+You've Got Mail ,Warner Bros.,December 18 of  1998,0,null
+Ghost Rider ,Sony Pictures Entertainment (SPE),February 14 of  2007,0,null
+Remember the Titans ,Walt Disney Studios Motion Pictures,September 29 of  2000,0,null
+Creed II ,Metro-Goldwyn-Mayer (MGM),November 21 of  2018,0,null
+District 9 ,TriStar Pictures,August 13 of  2009,0,null
+Unbroken ,Universal Pictures,December 25 of  2014,0,null
+Peter Rabbit ,Sony Pictures Entertainment (SPE),February 8 of  2018,0,null
+Girls Trip ,Universal Pictures,July 21 of  2017,0,null
+Dumbo ,Walt Disney Studios Motion Pictures,March 27 of  2019,0,null
+Fifty Shades Darker ,Universal Pictures,February 8 of  2017,0,null
+Dodgeball: A True Underdog Story ,Twentieth Century Fox,June 18 of  2004,0,null
+The Village ,Walt Disney Studios Motion Pictures,August 13 of  2003,0,null
+Bolt ,Walt Disney Studios Motion Pictures,November 21 of  2008,0,null
+Maleficent: Mistress of Evil ,Walt Disney Studios Motion Pictures,October 16 of  2019,0,null
+Wild Wild West ,Warner Bros.,June 30 of  1999,0,null
+Night at the Museum: Secret of the Tomb ,Twentieth Century Fox,December 17 of  2014,0,null
+Magic Mike ,Warner Bros.,June 28 of  2012,0,null
+The Addams Family ,Paramount Pictures,November 22 of  1991,0,null
+The Patriot ,Sony Pictures Entertainment (SPE),June 28 of  2000,0,null
+Bad Moms ,STX Entertainment,July 28 of  2016,0,null
+The Bourne Legacy ,Universal Pictures,August 8 of  2012,0,null
+The Pacifier ,Walt Disney Studios Motion Pictures,March 4 of  2005,0,null
+Dr. Dolittle 2 ,Twentieth Century Fox,June 22 of  2001,0,null
+It's Complicated ,Universal Pictures,December 23 of  2009,0,null
+Spy Kids ,Miramax,March 30 of  2001,0,null
+Face/Off ,Paramount Pictures,June 27 of  1997,0,null
+The Hangover Part III ,Warner Bros.,May 23 of  2013,0,null
+Twins ,Universal Pictures,December 9 of  1988,0,null
+Spy Kids 3-D: Game Over ,Dimension Films,July 25 of  2003,0,null
+Enemy of the State ,Walt Disney Studios Motion Pictures,November 20 of  1998,0,null
+Mr. Peabody & Sherman ,Twentieth Century Fox,February 7 of  2014,0,null
+The Last Samurai ,Warner Bros.,December 5 of  2003,0,null
+Glass ,Universal Pictures,January 16 of  2019,0,null
+Spy ,Twentieth Century Fox,May 21 of  2015,0,null
+Tropic Thunder ,DreamWorks,August 13 of  2008,0,null
+Godzilla: King of the Monsters ,Warner Bros.,May 29 of  2019,0,null
+Valentine's Day ,Warner Bros.,February 10 of  2010,0,null
+The Grudge ,Sony Pictures Entertainment (SPE),October 22 of  2004,0,null
+Fun with Dick and Jane ,Sony Pictures Entertainment (SPE),December 21 of  2005,0,null
+Freaky Friday ,Walt Disney Studios Motion Pictures,August 6 of  2003,0,null
+Trainwreck ,Universal Pictures,July 17 of  2015,0,null
+Bedtime Stories ,Walt Disney Studios Motion Pictures,December 24 of  2008,0,null
+Scary Movie 3 ,Dimension Films,October 24 of  2003,0,null
+Creed ,Warner Bros.,November 25 of  2015,0,null
+The 40-Year-Old Virgin ,Universal Pictures,August 19 of  2005,0,null
+Couples Retreat ,Universal Pictures,October 8 of  2009,0,null
+Black Hawk Down ,Revolution Studios,December 28 of  2001,0,null
+Terms of Endearment ,Paramount Pictures,November 23 of  1983,0,null
+The Upside ,STX Entertainment,January 10 of  2019,0,null
+The Princess Diaries ,Walt Disney Studios Motion Pictures,August 3 of  2001,0,null
+Superman II ,Warner Bros.,June 19 of  1981,0,null
+Little Women ,Sony Pictures Entertainment (SPE),December 25 of  2019,0,null
+Hop ,Universal Pictures,March 30 of  2011,0,null
+Pulp Fiction ,Miramax,October 14 of  1994,0,null
+Paranormal Activity ,Paramount Pictures,September 25 of  2009,0,null
+Baby Driver ,TriStar Pictures,June 28 of  2017,0,null
+A League of Their Own ,Sony Pictures Entertainment (SPE),July 1 of  1992,0,null
+Epic ,Twentieth Century Fox,May 16 of  2013,0,null
+Watchmen ,Warner Bros.,March 4 of  2009,0,null
+The Angry Birds Movie ,Sony Pictures Entertainment (SPE),May 11 of  2016,0,null
+Batman & Robin ,Warner Bros.,June 20 of  1997,0,null
+Captain Phillips ,Sony Pictures Entertainment (SPE),October 11 of  2013,0,null
+Black Swan ,Fox Searchlight Pictures,December 3 of  2010,0,null
+Analyze This ,Warner Bros.,March 5 of  1999,0,null
+Chicken Run ,DreamWorks Distribution,June 23 of  2000,0,null
+Miss Congeniality ,Warner Bros.,December 22 of  2000,0,null
+300: Rise of an Empire ,Warner Bros.,March 5 of  2014,0,null
+The Italian Job ,Paramount Pictures,May 30 of  2003,0,null
+The Lego Movie 2: The Second Part ,Warner Bros.,February 6 of  2019,0,null
+Robin Hood ,Universal Pictures,May 12 of  2010,0,null
+Interview with the Vampire: The Vampire Chronicles ,Warner Bros.,November 11 of  1994,0,null
+George of the Jungle ,Walt Disney Studios Motion Pictures,July 18 of  1997,0,null
+Hustlers ,STX Entertainment,September 12 of  2019,0,null
+Pitch Perfect 3 ,Universal Pictures,December 21 of  2017,0,null
+American Wedding ,Universal Pictures,August 1 of  2003,0,null
+Road to Perdition ,DreamWorks Distribution,July 12 of  2002,0,null
+The Princess and the Frog ,Walt Disney Studios Motion Pictures,November 25 of  2009,0,null
+The Chronicles of Narnia: The Voyage of the Dawn Treader ,Twentieth Century Fox,December 2 of  2010,0,null
+Daddy Day Care ,Revolution Studios,May 9 of  2003,0,null
+Daddy's Home 2 ,Paramount Pictures,November 9 of  2017,0,null
+Paranormal Activity 3 ,Paramount Pictures,October 19 of  2011,0,null
+Journey 2: The Mysterious Island ,Warner Bros.,January 19 of  2012,0,null
+The Mule ,Warner Bros.,December 14 of  2018,0,null
+Dick Tracy ,Walt Disney Studios Motion Pictures,June 15 of  1990,0,null
+Rise of the Guardians ,DreamWorks,November 21 of  2012,0,null
+Independence Day: Resurgence ,Twentieth Century Fox,June 22 of  2016,0,null
+The Expendables ,Lionsgate,August 12 of  2010,0,null
+Scream ,Dimension Films,December 20 of  1996,0,null
+Just Go with It ,Sony Pictures Entertainment (SPE),February 9 of  2011,0,null
+Murder on the Orient Express ,Twentieth Century Fox,November 3 of  2017,0,null
+The General's Daughter ,Paramount Pictures,June 18 of  1999,0,null
+The Aviator ,Miramax,December 17 of  2004,0,null
+American Pie ,Universal Pictures,July 9 of  1999,0,null
+Daredevil ,Twentieth Century Fox,February 14 of  2003,0,null
+The Girl with the Dragon Tattoo ,Sony Pictures Entertainment (SPE),December 21 of  2011,0,null
+The Mummy: Tomb of the Dragon Emperor ,Universal Pictures,July 30 of  2008,0,null
+The Conjuring 2 ,Warner Bros.,June 8 of  2016,0,null
+The Maze Runner ,Twentieth Century Fox,September 11 of  2014,0,null
+In the Line of Fire ,Columbia Pictures,July 9 of  1993,0,null
+Annabelle: Creation ,Warner Bros.,August 3 of  2017,0,null
+The Equalizer 2 ,Sony Pictures Entertainment (SPE),July 18 of  2018,0,null
+Bad Grandpa ,Paramount Pictures,October 23 of  2013,0,null
+Pacific Rim ,Warner Bros.,July 11 of  2013,0,null
+Journey to the Center of the Earth ,Warner Bros.,July 10 of  2008,0,null
+Gone in 60 Seconds ,Walt Disney Studios Motion Pictures,June 9 of  2000,0,null
+Sleeping with the Enemy ,Twentieth Century Fox,February 8 of  1991,0,null
+The Equalizer ,Sony Pictures Entertainment (SPE),September 24 of  2014,0,null
+This Is the End ,Sony Pictures Entertainment (SPE),June 12 of  2013,0,null
+Eagle Eye ,DreamWorks,September 25 of  2008,0,null
+The Prince of Egypt ,DreamWorks Distribution,December 18 of  1998,0,null
+Scream 2 ,Dimension Films,December 12 of  1997,0,null
+Eraser ,Warner Bros.,June 21 of  1996,0,null
+Noah ,Paramount Pictures,March 20 of  2014,0,null
+The Cat in the Hat ,Universal Pictures,November 21 of  2003,0,null
+Con Air ,Walt Disney Studios Motion Pictures,June 6 of  1997,0,null
+Sleepy Hollow ,Paramount Pictures,November 19 of  1999,0,null
+Rampage ,Warner Bros.,April 11 of  2018,0,null
+Collateral ,DreamWorks Distribution,August 5 of  2004,0,null
+Contact ,Warner Bros.,July 11 of  1997,0,null
+Charlie's Angels: Full Throttle ,Sony Pictures Entertainment (SPE),June 26 of  2003,0,null
+The Addams Family ,United Artists Releasing,October 11 of  2019,0,null
+Vanilla Sky ,Paramount Pictures,December 14 of  2001,0,null
+Arrival ,Paramount Pictures,November 10 of  2016,0,null
+Due Date ,Warner Bros.,November 3 of  2010,0,null
+Jumanji ,Sony Pictures Entertainment (SPE),December 15 of  1995,0,null
+The Rugrats Movie ,Paramount Pictures,November 20 of  1998,0,null
+Million Dollar Baby ,Warner Bros.,December 15 of  2004,0,null
+Step Brothers ,Sony Pictures Entertainment (SPE),July 25 of  2008,0,null
+Evan Almighty ,Universal Pictures,June 21 of  2007,0,null
+Fifty Shades Freed ,Universal Pictures,February 7 of  2018,0,null
+Shakespeare in Love ,Miramax,December 11 of  1998,0,null
+Bad Teacher ,Sony Pictures Entertainment (SPE),June 17 of  2011,0,null
+Yogi Bear ,Warner Bros.,December 17 of  2010,0,null
+Cowboys & Aliens ,Universal Pictures,July 29 of  2011,0,null
+Kingsman: The Golden Circle ,Twentieth Century Fox,September 20 of  2017,0,null
+Edge of Tomorrow ,Warner Bros.,May 28 of  2014,0,null
+The Hunchback of Notre Dame ,Walt Disney Studios Motion Pictures,June 21 of  1996,0,null
+Se7en ,New Line Cinema,September 22 of  1995,0,null
+You Don't Mess with the Zohan ,Sony Pictures Entertainment (SPE),June 5 of  2008,0,null
+Passengers ,Sony Pictures Entertainment (SPE),December 21 of  2016,0,null
+Die Hard with a Vengeance ,Twentieth Century Fox,May 19 of  1995,0,null
+Christopher Robin ,Walt Disney Studios Motion Pictures,August 1 of  2018,0,null
+Hercules ,Walt Disney Studios Motion Pictures,June 15 of  1997,0,null
+Olympus Has Fallen ,FilmDistrict,March 20 of  2013,0,null
+The Green Hornet ,Sony Pictures Entertainment (SPE),January 12 of  2011,0,null
+Date Night ,Twentieth Century Fox,April 8 of  2010,0,null
+Yes Man ,Warner Bros.,December 18 of  2008,0,null
+Sausage Party ,Sony Pictures Entertainment (SPE),August 11 of  2016,0,null
+Inspector Gadget ,Walt Disney Studios Motion Pictures,July 23 of  1999,0,null
+Public Enemies ,Universal Pictures,June 24 of  2009,0,null
+The Social Network ,Sony Pictures Entertainment (SPE),October 1 of  2010,0,null
+Schindler's List ,Universal Pictures,December 15 of  1993,0,null
+Downton Abbey ,Focus Features,September 12 of  2019,0,null
+The Others ,Miramax,August 10 of  2001,0,null
+Legally Blonde ,Metro-Goldwyn-Mayer (MGM),July 13 of  2001,0,null
+Panic Room ,Sony Pictures Entertainment (SPE),March 29 of  2002,0,null
+Rocketman ,Paramount Pictures,May 24 of  2019,0,null
+Zero Dark Thirty ,Sony Pictures Entertainment (SPE),December 19 of  2012,0,null
+Norbit ,DreamWorks,February 9 of  2007,0,null
+Cold Mountain ,Miramax,December 25 of  2003,0,null
+Sex and the City 2 ,Warner Bros.,May 27 of  2010,0,null
+The Princess Diaries 2: Royal Engagement ,Walt Disney Studios Motion Pictures,August 11 of  2004,0,null
+42 ,Warner Bros.,April 12 of  2013,0,null
+Unbreakable ,Walt Disney Studios Motion Pictures,November 22 of  2000,0,null
+The Book of Eli ,Warner Bros.,January 14 of  2010,0,null
+10000 BC ,Warner Bros.,March 5 of  2008,0,null
+Julie & Julia ,Sony Pictures Entertainment (SPE),August 6 of  2009,0,null
+The Mask of Zorro ,Sony Pictures Entertainment (SPE),July 17 of  1998,0,null
+Maid in Manhattan ,Revolution Studios,December 13 of  2002,0,null
+Master and Commander: The Far Side of the World ,Twentieth Century Fox,November 14 of  2003,0,null
+Flight ,Paramount Pictures,November 2 of  2012,0,null
+The Fighter ,Paramount Pictures,November 20 of  2009,0,null
+America's Sweethearts ,Revolution Studios,July 20 of  2001,0,null
+The Bucket List ,Warner Bros.,December 25 of  2007,0,null
+Tomorrowland ,Walt Disney Studios Motion Pictures,May 20 of  2015,0,null
+The Magnificent Seven ,Sony Pictures Entertainment (SPE),September 14 of  2016,0,null
+Cats & Dogs ,Warner Bros.,July 4 of  2001,0,null
+Two Weeks Notice ,Warner Bros.,December 20 of  2002,0,null
+Red Dragon ,Universal Pictures,October 4 of  2002,0,null
+Elysium ,TriStar Pictures,August 8 of  2013,0,null
+The Town ,Warner Bros.,September 15 of  2010,0,null
+Non-Stop ,Universal Pictures,February 19 of  2014,0,null
+Blade Runner 2049 ,Warner Bros.,October 4 of  2017,0,null
+Halloween Kills ,Universal Pictures,October 13 of  2021,0,null
+Think Like a Man ,Screen Gems,April 20 of  2012,0,null
+Kindergarten Cop ,Universal Pictures,December 22 of  1990,0,null
+Heaven Is for Real ,TriStar Pictures,April 16 of  2014,0,null
+The Haunting ,DreamWorks Distribution,July 23 of  1999,0,null
+Ride Along 2 ,Universal Pictures,January 15 of  2015,0,null
+Stepmom ,Sony Pictures Entertainment (SPE),December 25 of  1998,0,null
+The Scorpion King ,Universal Pictures,April 18 of  2002,0,null
+Prince of Persia: The Sands of Time ,Walt Disney Studios Motion Pictures,July 16 of  2009,0,null
+Antz ,DreamWorks Distribution,October 2 of  1998,0,null
+Scary Movie 4 ,Dimension Films,April 12 of  2006,0,null
+Me Myself & Irene ,Twentieth Century Fox,June 23 of  2000,0,null
+High School Musical 3: Senior Year ,Walt Disney Studios Motion Pictures,October 22 of  2008,0,null
+Space Cowboys ,Warner Bros.,August 4 of  2000,0,null
+Get Hard ,Warner Bros.,March 26 of  2015,0,null
+RED ,Summit Entertainment,October 14 of  2010,0,null
+Planes ,Walt Disney Studios Motion Pictures,August 9 of  2013,0,null
+Legally Blonde 2: Red White & Blonde ,Metro-Goldwyn-Mayer (MGM),July 2 of  2003,0,null
+Mystic River ,Warner Bros.,October 8 of  2003,0,null
+Terminator Genisys ,Paramount Pictures,June 25 of  2015,0,null
+The Emperor's New Groove ,Walt Disney Studios Motion Pictures,December 15 of  2000,0,null
+The Lone Ranger ,Walt Disney Studios Motion Pictures,July 3 of  2013,0,null
+Taken 3 ,Twentieth Century Fox,January 1 of  2015,0,null
+Don't Breathe ,Screen Gems,August 25 of  2016,0,null
+Scream 3 ,Dimension Films,February 4 of  2000,0,null
+Oblivion ,Universal Pictures,April 10 of  2013,0,null
+The Ugly Truth ,Sony Pictures Entertainment (SPE),February 26 of  2009,0,null
+Percy Jackson & the Olympians: The Lightning Thief ,Twentieth Century Fox,February 10 of  2010,0,null
+Failure to Launch ,Paramount Pictures,March 9 of  2006,0,null
+The Muppets ,Walt Disney Studios Motion Pictures,November 23 of  2011,0,null
+Inside Man ,Universal Pictures,March 23 of  2006,0,null
+Back to the Future Part III ,Universal Pictures,May 25 of  1990,0,null
+Waterworld ,Universal Pictures,July 28 of  1995,0,null
+Starsky & Hutch ,Warner Bros.,March 5 of  2004,0,null
+Along Came Polly ,Universal Pictures,January 16 of  2004,0,null
+Entrapment ,Twentieth Century Fox,April 30 of  1999,0,null
+Pineapple Express ,Sony Pictures Entertainment (SPE),August 6 of  2008,0,null
+Miss Peregrine's Home for Peculiar Children ,Twentieth Century Fox,September 28 of  2016,0,null
+Sisters ,Universal Pictures,December 18 of  2015,0,null
+Saw II ,Lionsgate,October 28 of  2005,0,null
+The Naked Gun 2½: The Smell of Fear ,Paramount Pictures,June 28 of  1991,0,null
+The Accountant ,Warner Bros.,October 13 of  2016,0,null
+Dumb and Dumber To ,Universal Pictures,November 12 of  2014,0,null
+The Emoji Movie ,Sony Pictures Entertainment (SPE),July 27 of  2017,0,null
+Mean Girls ,Paramount Pictures,April 30 of  2004,0,null
+Annie ,Sony Pictures Entertainment (SPE),December 17 of  2014,0,null
+Spy Kids 2: Island of Lost Dreams ,Dimension Films,August 7 of  2002,0,null
+Alita: Battle Angel ,Twentieth Century Fox,February 5 of  2019,0,null
+Fury ,Sony Pictures Entertainment (SPE),October 17 of  2014,0,null
+Pokémon: The First Movie - Mewtwo Strikes Back ,Warner Bros.,November 10 of  1999,0,null
+The SpongeBob SquarePants Movie ,Paramount Pictures,November 19 of  2004,0,null
+Power Rangers ,Lionsgate,March 22 of  2017,0,null
+Anchorman: The Legend of Ron Burgundy ,DreamWorks Distribution,July 9 of  2004,0,null
+Open Season ,Sony Pictures Entertainment (SPE),September 29 of  2006,0,null
+Green Book ,Universal Pictures,November 16 of  2018,0,null
+The Expendables 2 ,Lionsgate,August 15 of  2012,0,null
+Paranormal Activity 2 ,Paramount Pictures,October 20 of  2010,0,null
+Tammy ,Warner Bros.,July 2 of  2014,0,null
+Ferdinand ,Twentieth Century Fox,December 13 of  2017,0,null
+Crazy Stupid Love. ,Warner Bros.,July 28 of  2011,0,null
+Annabelle ,Warner Bros.,September 23 of  2014,0,null
+Birds of Prey ,Warner Bros.,February 5 of  2020,0,null
+Atlantis: The Lost Empire ,Walt Disney Studios Motion Pictures,June 8 of  2001,0,null
+Cliffhanger ,TriStar Pictures,May 28 of  1993,0,null
+The Other Woman ,Twentieth Century Fox,April 17 of  2014,0,null
+Penguins of Madagascar ,Twentieth Century Fox,November 14 of  2014,0,null
+Die Hard ,Twentieth Century Fox,July 15 of  1988,0,null
+Up in the Air ,Paramount Pictures,December 4 of  2009,0,null
+Wrath of the Titans ,Warner Bros.,March 28 of  2012,0,null
+Insidious: Chapter 2 ,FilmDistrict,September 13 of  2013,0,null
+Battle Los Angeles ,Sony Pictures Entertainment (SPE),March 9 of  2011,0,null
+Immortals ,Relativity Media,November 10 of  2011,0,null
+I Can Only Imagine ,Roadside Attractions,March 15 of  2018,0,null
+Patriot Games ,Paramount Pictures,June 5 of  1992,0,null
+Saving Mr. Banks ,Walt Disney Studios Motion Pictures,November 29 of  2013,0,null
+Good Boys ,Universal Pictures,August 14 of  2019,0,null
+Valkyrie ,United Artists,December 25 of  2008,0,null
+Brokeback Mountain ,Focus Features,December 9 of  2005,0,null
+Turbo ,Twentieth Century Fox,July 10 of  2013,0,null
+Disclosure ,Warner Bros.,December 9 of  1994,0,null
+Charlotte's Web ,Paramount Pictures,December 7 of  2006,0,null
+Monster-in-Law ,New Line Cinema,May 13 of  2005,0,null
+Are We There Yet? ,Revolution Studios,January 21 of  2005,0,null
+Freddy vs. Jason ,New Line Cinema,August 14 of  2003,0,null
+Star Trek: The Motion Picture ,Paramount Pictures,December 7 of  1979,0,null
+Bram Stoker's Dracula ,Columbia Pictures,November 13 of  1992,0,null
+Let's Be Cops ,Twentieth Century Fox,August 13 of  2014,0,null
+Blade II ,New Line Cinema,March 22 of  2002,0,null
+Beowulf ,Paramount Pictures,November 14 of  2007,0,null
+The Pink Panther ,Sony Pictures Entertainment (SPE),February 9 of  2006,0,null
+Teenage Mutant Ninja Turtles: Out of the Shadows ,Paramount Pictures,June 2 of  2016,0,null
+The Post ,Twentieth Century Fox,December 22 of  2017,0,null
+Alien ,Twentieth Century Fox,May 25 of  1979,0,null
+Maze Runner: The Scorch Trials ,Twentieth Century Fox,September 9 of  2015,0,null
+Eight Below ,Walt Disney Studios Motion Pictures,February 17 of  2006,0,null
+Unstoppable ,Twentieth Century Fox,November 10 of  2010,0,null
+Payback ,Paramount Pictures,February 5 of  1999,0,null
+Ted 2 ,Universal Pictures,June 19 of  2015,0,null
+The Talented Mr. Ripley ,Paramount Pictures,December 25 of  1999,0,null
+School of Rock ,Paramount Pictures,October 3 of  2003,0,null
+Snow Dogs ,Walt Disney Studios Motion Pictures,January 18 of  2002,0,null
+21 ,Sony Pictures Entertainment (SPE),March 28 of  2008,0,null
+While You Were Sleeping ,Walt Disney Studios Motion Pictures,April 21 of  1995,0,null
+The Notebook ,New Line Cinema,June 25 of  2004,0,null
+Jimmy Neutron: Boy Genius ,Paramount Pictures,December 21 of  2001,0,null
+Eat Pray Love ,Sony Pictures Entertainment (SPE),August 13 of  2010,0,null
+The Texas Chainsaw Massacre ,New Line Cinema,October 17 of  2003,0,null
+Zookeeper ,Sony Pictures Entertainment (SPE),July 6 of  2011,0,null

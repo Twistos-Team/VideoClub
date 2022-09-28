@@ -33,9 +33,9 @@ public class ControllerCL {
 		return true;
 	}
 	
-	public void addClientMovie(ArrayList<Movie>movies, Movie mov, int cant) {
-		movies.add(cant, mov);
-		
+	public void addClientMovie(Client cc, ArrayList<Movie>movies, Movie mov) {
+		movies.add(movies.size(), mov);
+		mov.setUser(cc.getRut());
 	}
 	
 	public void showCatalogue(ArrayList<Movie> cat){

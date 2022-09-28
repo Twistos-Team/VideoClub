@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
-import proyecto.videoclub.CSVManager;
+import proyecto.videoclub.TxtManager;
 import proyecto.videoclub.Client;
 import proyecto.videoclub.Movie;
 
@@ -55,8 +55,8 @@ public class VCWind {
 		initialize();
 		
 		try {
-			CSVManager txtM = new CSVManager();
-			txtM.readCsvMov(movs);
+			TxtManager txtM = new TxtManager();
+			txtM.readTxtMov(movs);
 		}
 		catch(IOException ex) {
 			ex.printStackTrace();

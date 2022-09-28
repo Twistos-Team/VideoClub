@@ -11,25 +11,27 @@ import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.Hashtable;
 
-public class CSVManager {
+public class TxtManager {
 	static String MOVIES = "movies.txt";
 	static String CLIENTS = "clients.txt";
 	
-	public void readCsvMov(ArrayList<Movie> cat) throws IOException {
+	public void readTxtMov(ArrayList<Movie> cat) throws IOException {
 		try {
-			File mvs = new File(MOVIES);
-			FileReader fr = new FileReader(mvs);
+			FileReader fr = new FileReader(MOVIES);
 			BufferedReader fileReader = new BufferedReader(fr);
 			
 			String lineText = null;
-			int i = 0; 
+			int i; 
 		
-			while ((lineText = fileReader.readLine()) != null) {
-				String[] arr = lineText.split(",");
-				Movie p = new Movie(arr[0], arr[1], arr[2], Integer.parseInt(arr[3]), arr[4],i);
-				cat.add(i,p);
-				i += 1;
+			for (i = 0 ; i < 800 ; i++) {
+				lineText = fileReader.readLine();
+				String [] arr = lineText.split(",");
+				if (arr[4].equals("null")) arr[4] = null;
+				
+				Movie mm = new Movie(arr[0], arr[1], arr[2], Integer.parseInt(arr[3]), arr[4],i);
+				cat.add(i,mm);
 			}
+			
 			fileReader.close();
 			fr.close();
 			//System.out.println("Imported OK\n");
@@ -39,7 +41,7 @@ public class CSVManager {
 		}
 	}
 	
-	public void writeCsvMov(ArrayList<Movie> cat) {
+	public void writeTxtMov(ArrayList<Movie> cat) {
 		try {
 			File file = new File(MOVIES);
 			file.delete();
@@ -69,7 +71,7 @@ public class CSVManager {
 		}
 	}
 
-	public void readCsvClt(Hashtable<String, Client> map) {
+	public void readTxtClt(Hashtable<String, Client> map) {
 		try {
 			File txt = new File(CLIENTS);
 			FileReader fr = new FileReader(txt);
@@ -78,7 +80,7 @@ public class CSVManager {
 			
 			while ( (lineText = fReader.readLine()) != null) {
 				String[] arr = lineText.split(",");
-				Client clt = new Client(arr[0],arr[1],Integer.parseInt(arr[2])); 
+				Client clt = new Client(arr[0],arr[1]); 
 				map.put(arr[1], clt);
 			}
 			fReader.close();
@@ -88,7 +90,7 @@ public class CSVManager {
 		}
 	}
 	
-	public void writeCsvClt(Hashtable<String, Client>map) throws IOException{
+	public void writeTxtClt(Hashtable<String, Client>map) throws IOException{
 		File f = new File(CLIENTS);
 		f.delete();
 		File nw = new File(CLIENTS);
@@ -102,7 +104,7 @@ public class CSVManager {
 		Client cc = null;
 		while (kys.hasMoreElements()) {
 			cc = map.get(kys.nextElement());
-			wrt.write(cc.getName()+","+cc.getRut()+","+cc.getCantMovies()+"\n");
+			wrt.write(cc.getName()+","+cc.getRut()+"\n");
 		}
 		
 		wrt.close();
@@ -110,12 +112,12 @@ public class CSVManager {
 	}
 
 	public void addAllMovies(ArrayList<Movie> cat, Hashtable<String, Client> map) {
-		int sz = cat.size();
-		for (int i = 0 ; i < sz ; i++) {
+		for (int i = 0 ; i < 800 ; i++) {
 			String usr = cat.get(i).getUser();
-			
-			if (map.get(usr) != null) {
-				map.get(usr).addClientMovie(cat.get(i));
+	
+			if (usr != null) {
+				Client cc = map.get(usr);
+				cc.addClientMovie(cat.get(i));
 			}
 		}
 	}
