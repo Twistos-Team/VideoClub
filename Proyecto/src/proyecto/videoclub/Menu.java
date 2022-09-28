@@ -6,17 +6,20 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Hashtable;
 
+import project.exceptions.NotIntException;
 import project.exceptions.ValidRutException;
 
 public class Menu {
 	private BufferedReader reader;
 	private int resp;
 	private ControllerCL ctr = new ControllerCL();
+	
 	public Menu() {
 		reader = new BufferedReader(new InputStreamReader(System.in));
 		resp = 0;
 	}
 	
+	// MENU PRINCIPAL
 	public void principalMenu(ArrayList<Movie> catalogueM, Hashtable<String,Client>listC) throws IOException{
 		System.out.println("MENU PRINCIPAL");
 		System.out.println("1) Menu Clientes");
@@ -37,7 +40,7 @@ public class Menu {
 
 	// MENU CLIENTE
 	public void menuClient(ArrayList<Movie> catalogueM, Hashtable<String,Client>listC) throws IOException{
-		System.out.println("CLIENTE - QUE DESEA HACER?");
+		System.out.println("\nCLIENTE - QUE DESEA HACER?");
 		System.out.println("1) Registrarse como cliente");
 		System.out.println("2) Buscar cliente");
 		System.out.println("3) Mostrar peliculas de cliente");
@@ -52,7 +55,7 @@ public class Menu {
 		
 		case 2: Client sC = searchClient(listC); 
 				if (sC != null) sC.showClient();
-				else System.out.println("Cliente no existente");
+				else System.out.println("Cliente no existente\n");
 				break;
 		
 		case 3: showClientMovies(listC);
@@ -62,10 +65,9 @@ public class Menu {
 				break;
 		
 		case 5: Client cc = searchClient(listC); 
-				if (cc != null) {
+				if (cc != null)
 					deleteMovie(cc);
-				}
-				else System.out.println("Cliente no existente");
+				else System.out.println("Cliente no existente\n");
 				break;
 		
 		default: System.out.println("Saliendo...\n"); break;
@@ -74,13 +76,9 @@ public class Menu {
 	
 	public void showClientMovies(Hashtable<String,Client>listC) throws IOException {
 		Client cc = searchClient(listC);
-		cc.showClientMovies();
+		if (cc != null) cc.showClientMovies();
+		else System.out.println("Cliente no existente\n");
 		return;
-	}
-	
-	public void invalidRut(String rut) throws ValidRutException{
-		if(!(rut.length() >= 7) && !(rut.length() <= 8))
-			throw new ValidRutException();
 	}
 	
 	public void insertClient(Hashtable<String,Client>listC) throws IOException{
@@ -93,7 +91,8 @@ public class Menu {
 			System.out.println("Ingrese su rut");
 			insertedRut = reader.readLine();
 		
-			invalidRut(insertedRut);
+			ctr.isInt(insertedRut);
+			ctr.invalidRut(insertedRut);
 			
 			if (listC.containsKey(insertedRut)) {
 				System.out.println("Rut ya existente");
@@ -102,17 +101,22 @@ public class Menu {
 			
 			c.setClient(insertedName, insertedRut);
 			listC.put(insertedRut, c);
+			System.out.println("Cliente registrado\n");
 			
-		}catch(ValidRutException ex) {
-
+		}
+		catch(NotIntException ix) {
+			System.out.println("Rut no valido\nNo es un numero\n");
+		}
+		catch(ValidRutException rx) {
+			System.out.println("Rut no valido\nNo cumple cantidad de digitos\n");
 		}
 	}
 	
 	public Client searchClient(Hashtable<String,Client>listC) throws IOException{
-		String insertedRut;
-		System.out.println("Ingrese rut");
-		insertedRut = reader.readLine();
-		Client c = listC.get(insertedRut);
+		System.out.println("Ingrese su rut");
+		String insertedRut = reader.readLine();
+		System.out.println("\n");
+		Client c = ctr.searchClient(listC, insertedRut);
 		return c;
 	}
 	
@@ -145,8 +149,9 @@ public class Menu {
 	}
 	
 	// MENU CATALOGO
+	// MENU CATALOGO
 	public void menuCatalogue(ArrayList<Movie> catalogueM, Hashtable<String,Client>listC) throws IOException{
-		System.out.println("CATALOGO - QUE DESEA HACER?");
+		System.out.println("\nCATALOGO - QUE DESEA HACER?");
 		System.out.println("1) Mostrar todas las peliculas");
 		System.out.println("2) Buscar pelicula");
 		System.out.println("Otherwise: Salir");

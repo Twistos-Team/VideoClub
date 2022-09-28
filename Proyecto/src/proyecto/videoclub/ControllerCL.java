@@ -1,8 +1,10 @@
 package proyecto.videoclub;
 
 import java.util.ArrayList;
+import java.util.Hashtable;
 
 import project.exceptions.NotIntException;
+import project.exceptions.ValidRutException;
 
 public class ControllerCL {
 	public void showClientMovies(ArrayList<Movie>lst) {
@@ -12,14 +14,23 @@ public class ControllerCL {
 		}
 	}
 	
-	public void deleteMovie (ArrayList<Movie>lst, String sMov) {
+	public Client searchClient(Hashtable<String,Client>map, String rut) {
+		Client cc = null;
+		if (map.containsKey(rut)) {
+			cc = map.get(rut);
+			return cc;
+		}
+		return null;
+	}
+	
+	public boolean deleteMovie (ArrayList<Movie>lst, String sMov) {
 		Movie mv = searchMovie(lst, sMov);
 		if (mv != null) {
 			lst.remove(mv);
 			mv.setAvailable(true);
-			System.out.println("Pelicula devuelta\n");
+			return true;
 		}
-		else System.out.println("Pelicula no adquirida\n");
+		return true;
 	}
 	
 	public void addClientMovie(ArrayList<Movie>movies, Movie mov, int cant) {
@@ -28,7 +39,8 @@ public class ControllerCL {
 	
 	public void showCatalogue(ArrayList<Movie> cat){
 		Movie p;
-		for (int i = 0 ; i < 799 ; i+=1) {
+		int sz = cat.size();
+		for (int i = 0 ; i < sz ; i+=1) {
 			p = cat.get(i);
 			p.showMovies();
 		}
@@ -46,9 +58,14 @@ public class ControllerCL {
 		return null;
 	}
 	
-	public void isInt(String xd) throws NotIntException {
+	public void invalidRut(String rut) throws ValidRutException{
+		if(rut.length() < 7 || rut.length() > 8)
+			throw new ValidRutException();
+	}
+	
+	public void isInt(String x) throws NotIntException {
 		try {
-			Integer.parseInt(xd);
+			Integer.parseInt(x);
 		}
 		catch(Exception ex) {
 			throw new NotIntException();
@@ -58,7 +75,6 @@ public class ControllerCL {
 	
 	public Movie searchMovie(ArrayList<Movie>list, String sMov) {
 		Movie mov = null;
-		System.out.println(sMov);
 		try {
 			isInt(sMov);
 			int searchedMovie = Integer.parseInt(sMov);

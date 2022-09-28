@@ -18,11 +18,11 @@ public class CSVManager {
 				cat.add(i,p);
 				i += 1;
 			}
-			System.out.println("Imported OK\n");
 			fileReader.close();
+			//System.out.println("Imported OK\n");
 		}
-		catch(FileNotFoundException ex) {
-			System.out.println("Error File Not Found\n");
+		catch(Exception ex) {
+			//System.out.println("Error File Not Found\n");
 		}
 	}
 	
@@ -40,15 +40,18 @@ public class CSVManager {
 			int i = 0;
 			while (i < 800){
 				mm = cat.get(i);
-				wrt.write(mm.getName()+","+mm.getDistributor()+","+mm.getDate()+","+mm.getCantR()+"\n");
+				wrt.write(mm.getName()+","+mm.getDistributor()+","+mm.getDate()+","+mm.getCantR());
+				if (i != 799) wrt.write("\n");
 				i++;
 			}
 			
-			System.out.println("Exported OK");
+			//System.out.println("Exported OK");
+			
+			fileWriter.close();
 			wrt.close();
 		}
 		catch(IOException ex) {
-			System.out.println("Error Not Exported");
+			//System.out.println("Error Not Exported");
 		}
 	}
 }

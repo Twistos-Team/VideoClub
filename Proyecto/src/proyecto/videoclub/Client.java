@@ -67,13 +67,19 @@ public class Client {
 	
 	public void showClientMovies() {
 		ControllerCL ctr = new ControllerCL();
+		if (movies.size() == 0) {
+			System.out.println("No tienes peliculas rentadas\n");
+			return;
+		}
+		
 		ctr.showClientMovies(movies);
 		cantMovies++;
 	}
 	
 	public void deleteMovie(String sMov) {
 		ControllerCL ctr = new ControllerCL();
-		ctr.deleteMovie(movies, sMov);
+		if (ctr.deleteMovie(movies, sMov)) System.out.println("Pelicula devuelta\n");
+		else System.out.println("Pelicula no adquirida\n");
 		cantMovies--;
 	}
 }//END CLASS
