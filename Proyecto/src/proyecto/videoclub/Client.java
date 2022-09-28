@@ -15,10 +15,10 @@ public class Client {
 		this.rut=null;
 		this.movies = new ArrayList<Movie>();
 	}
-	public Client(String name, String rut) {
+	public Client(String name, String rut, int cantMovies) {
 		this.name = name;
 		this.rut = rut;
-		cantMovies = 0;
+		this.cantMovies = cantMovies;
 		this.movies = new ArrayList<Movie>();
 	}
 	

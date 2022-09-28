@@ -27,7 +27,7 @@ public class ControllerCL {
 		Movie mv = searchMovie(lst, sMov);
 		if (mv != null) {
 			lst.remove(mv);
-			mv.setAvailable(true);
+			mv.setUser(null);
 			return true;
 		}
 		return true;
@@ -35,6 +35,7 @@ public class ControllerCL {
 	
 	public void addClientMovie(ArrayList<Movie>movies, Movie mov, int cant) {
 		movies.add(cant, mov);
+		
 	}
 	
 	public void showCatalogue(ArrayList<Movie> cat){

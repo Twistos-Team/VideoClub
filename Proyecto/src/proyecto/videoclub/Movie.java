@@ -5,22 +5,31 @@ public class Movie {
 	private String distributor;
 	private String date;
 	private int cantRented;
+	private String user;
 	private int id;
-	private boolean available;
 	
 	public Movie() {
 		this.name = null;
 		this.distributor=null;
 		this.date = null;
 		this.cantRented = 0;
-		this.available = true;
+		this.user = null;
 	}
-	public Movie(String name, String distributor, String date, int id) {
+	public Movie(String name, String distributor, String date, int cantRented, int id) {
 		this.name = name;
 		this.distributor = distributor;
 		this.date = date;
-		this.cantRented = 0;
-		this.available=true;
+		this.cantRented = cantRented;
+		this.user = null;
+		this.id = id;
+	}
+	
+	public Movie(String name, String distributor, String date, int cantRented, String user, int id) {
+		this.name = name;
+		this.distributor = distributor;
+		this.date = date;
+		this.cantRented = cantRented;
+		this.user = user;
 		this.id = id;
 	}
 	
@@ -43,8 +52,8 @@ public class Movie {
 	public int getCantR() {
 		return cantRented;}
 	
-	public boolean getAvailable() {
-		return available;
+	public String getUser() {
+		return user;
 	}
 	
 	public void setName(String name) {
@@ -59,8 +68,8 @@ public class Movie {
 		this.date = date;
 	}
 	
-	public void setAvailable(boolean available) {
-		this.available = available;
+	public void setUser(String user) {
+		this.user = user;
 	}
 	
 	public void upCant() {
@@ -71,7 +80,7 @@ public class Movie {
 		System.out.println("Nombre: "+name);
 		System.out.println("Distribuidor: "+distributor);
 		System.out.println("Fecha: "+date);
-		if (available) System.out.println("Disponible: Si");
+		if (user == null) System.out.println("Disponible: Si");
 		else System.out.println("Disponible: No");
 		System.out.println("Veces rentada: "+cantRented);
 		System.out.println("ID: "+id+"\n");

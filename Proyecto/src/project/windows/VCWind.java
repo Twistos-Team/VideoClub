@@ -12,6 +12,7 @@ import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.LayoutStyle.ComponentPlacement;
 
@@ -66,10 +67,13 @@ public class VCWind {
 		mP.setSize(580, 300);
 		mP.setLocation(0,0);
 		
+		
+		
 		content.removeAll();
 		content.add(mP, BorderLayout.CENTER);
 		content.revalidate();
 		content.repaint();
+		
 	}
 
 	/**
@@ -78,6 +82,7 @@ public class VCWind {
 	private void initialize() {
 		initComponents();
 		createEvents();
+		
 	}
 
 	
@@ -124,6 +129,7 @@ public class VCWind {
 					.addContainerGap())
 		);
 		VcWindow.getContentPane().setLayout(groupLayout);
+		
 	}
 	
 	

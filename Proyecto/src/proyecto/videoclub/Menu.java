@@ -132,12 +132,12 @@ public class Menu {
 				System.out.println("Pelicula no existe");
 				return;
 			}
-			if (!mov.getAvailable()) {
+			if (mov.getUser() != null) {
 				System.out.println("Pelicula no disponible");
 				return;
 			}
 			c.addClientMovie(mov);
-			mov.setAvailable(false);
+			mov.setUser(c.getRut());
 		}
 	}
 	

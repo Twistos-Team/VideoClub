@@ -13,11 +13,17 @@ public class VideoClub {
 		Hashtable<String,Client> listC = new Hashtable<String,Client>(); 
 		
 		CSVManager csvM = new CSVManager();
+		
+		// Importar
 		csvM.readCsvMov(catalogueM);
+		csvM.readCsvClt(listC);
+		//csvM.addAllMovies(catalogueM, listC);
 		
 		menu.principalMenu(catalogueM, listC);
 		
+		// Exportar
 		csvM.writeCsvMov(catalogueM);
+		csvM.writeCsvClt(listC);
 		
 		catalogueM.clear();
 		listC.clear();
