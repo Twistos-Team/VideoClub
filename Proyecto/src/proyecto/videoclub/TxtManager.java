@@ -15,6 +15,7 @@ public class TxtManager {
 	static String MOVIES = "movies.txt";
 	static String CLIENTS = "clients.txt";
 	
+	@SuppressWarnings("resource")
 	public void readTxtMov(ArrayList<Movie> cat) throws IOException {
 		try {
 			FileReader fr = new FileReader(MOVIES);

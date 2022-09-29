@@ -152,6 +152,7 @@ public class Menu {
 		System.out.println("\nCATALOGO - QUE DESEA HACER?");
 		System.out.println("1) Mostrar todas las peliculas");
 		System.out.println("2) Buscar pelicula");
+		System.out.println("3) Pelicula mas popular");
 		System.out.println("Otherwise: Salir");
 		resp = Integer.parseInt(reader.readLine());
 		
@@ -168,6 +169,11 @@ public class Menu {
 				else System.out.println("Pelicula no encontrada");
 				break;
 		
+		case 3: Movie m = ctr.popularMovie(catalogueM);
+				System.out.println("Pelicula mas popular:");
+				m.showMovies();
+				break;
+				
 		default: System.out.println("Saliendo...\n"); break;
 		}
 	}//End menuCatalogo

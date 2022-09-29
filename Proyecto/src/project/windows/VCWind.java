@@ -20,6 +20,7 @@ import proyecto.videoclub.TxtManager;
 import proyecto.videoclub.Client;
 import proyecto.videoclub.Movie;
 
+@SuppressWarnings("unused")
 public class VCWind {
 
 	private JFrame VcWindow;
@@ -63,14 +64,12 @@ public class VCWind {
 		}
 		
 		
-		MainPanel mP = new MainPanel();
-		mP.setSize(580, 300);
-		mP.setLocation(0,0);
-		
-		
+		MainPanel sP = new MainPanel();
+		sP.setSize(580, 300);
+		sP.setLocation(0,0);
 		
 		content.removeAll();
-		content.add(mP, BorderLayout.CENTER);
+		content.add(sP, BorderLayout.CENTER);
 		content.revalidate();
 		content.repaint();
 		

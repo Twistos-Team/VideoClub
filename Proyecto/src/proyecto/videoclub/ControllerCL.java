@@ -30,7 +30,7 @@ public class ControllerCL {
 			mv.setUser(null);
 			return true;
 		}
-		return true;
+		return false;
 	}
 	
 	public void addClientMovie(Client cc, ArrayList<Movie>movies, Movie mov) {
@@ -92,6 +92,20 @@ public class ControllerCL {
 			return mov;
 		}
 		return null;
+	}
+	
+	public Movie popularMovie(ArrayList<Movie> cat) {
+		int sz = cat.size();
+		
+		Movie m = null;
+		Movie pm = cat.get(0);
+		for (int i = 1 ; i < sz ; i++) {
+			m = cat.get(i);
+			if ( m.getCantR() > pm.getCantR() ) {
+				pm = m;
+			}
+		}
+		return pm;
 	}
 	
 }
