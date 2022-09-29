@@ -67,9 +67,15 @@ public class Client {
 		ctr.showClientMovies(movies);
 	}
 	
-	public void deleteMovie(String sMov) {
+	public boolean deleteMovie(String sMov) {
 		ControllerCL ctr = new ControllerCL();
-		if (ctr.deleteMovie(movies, sMov)) System.out.println("Pelicula devuelta\n");
-		else System.out.println("Pelicula no adquirida\n");
+		if (ctr.deleteMovie(movies, sMov)) return true;
+		else return false;
+	}
+	
+	public Movie getMovie(int i) {
+		if (movies.size()-1 < i) return null;
+		return movies.get(i);
+		
 	}
 }//END CLASS

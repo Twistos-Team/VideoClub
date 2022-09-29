@@ -142,7 +142,8 @@ public class Menu {
 	public void deleteMovie(Client cc) throws IOException{
 		System.out.println("Que pelicula desea devolver?");
 		String sMov= reader.readLine();
-		cc.deleteMovie(sMov);
+		if (cc.deleteMovie(sMov)) System.out.println("Pelicula devuelta");
+		else System.out.println("No ha arrendado esta pelicula");
 		
 	}
 	
