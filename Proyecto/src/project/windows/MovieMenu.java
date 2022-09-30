@@ -20,7 +20,6 @@ import proyecto.videoclub.Client;
 import proyecto.videoclub.ControllerCL;
 import proyecto.videoclub.Movie;
 
-@SuppressWarnings("serial")
 public class MovieMenu extends JPanel {
 	private ControllerCL ctr = new ControllerCL();
 	private JPanel panel;
@@ -44,7 +43,14 @@ public class MovieMenu extends JPanel {
 				int sz = movs.size();
 				String outp = "";
 				
-				for (i = 0 ; i < sz ; i++) {				
+				for (i = 0 ; i < sz ; i++) {	
+					
+					if (i%10 == 0 && i > 1) {
+						int opt = JOptionPane.showConfirmDialog(null, "Desea salir del catálogo?", "Saliendo...", 0);
+						
+						if (opt == 0) return;
+					}
+					
 					Movie mm = movs.get(i);
 					outp = "Nombre: "+mm.getName()+"\nDistribuidor: "+mm.getDistributor()+"\nFecha: "+mm.getDate()+"\nVeces Rentada: "+mm.getCantR();
 					outp = outp + "\nID: "+mm.getId();
@@ -109,6 +115,7 @@ public class MovieMenu extends JPanel {
 			}
 		});
 		showPopularButton.setFont(new Font("Tw Cen MT Condensed", Font.PLAIN, 30));
+		
 		GroupLayout groupLayout = new GroupLayout(this);
 		groupLayout.setHorizontalGroup(
 			groupLayout.createParallelGroup(Alignment.TRAILING)
